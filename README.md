@@ -5,7 +5,7 @@
 
 📊
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GautamSutar&theme=blue-green)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GautamSutar&theme=blue-green&langs_count=6&cache_seconds=86400)
 
 🌍
 
