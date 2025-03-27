@@ -4,8 +4,8 @@ Full-Stack Web Developer 💻 | AI Enthusiast 🤖 | Problem Solver 🧠
 🌈 I’m a passionate Full-Stack Web Developer with a love for building scalable and efficient applications 🚀. I enjoy tackling challenges, collaborating with teams 🤝, and creating seamless user experiences ✨. Currently, I’m exploring AI technologies through an internship with Microsoft & SAP (TechSaksham Program) 🌐. Let’s build something amazing together! 🎉
 
 📧 Reach me at: gautamsutar.in@gmail.com ✉️ | 📞 +9188171-81384 ☎️
-
-🌍 Connect with me: LinkedIn 🔗 | Twitter 🐦
+🌍 Connect with me: 
+LinkedIn: https://www.linkedin.com/in/gautam-sutar/ 🔗 | X: https://x.com/Gautamsutarr 🐦
 
 📍 Location: 15, Krishna Bag Colony, Behind Barfanidham, Indore 🏡
 
