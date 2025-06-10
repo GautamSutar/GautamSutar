@@ -1,14 +1,4 @@
 # 👋 Hi, I’m Gautam Sutar 🌟  
-**Full-Stack Web Developer 💻 | AI Enthusiast 🤖 | Problem Solver 🧠**
-
-![Gautam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GautamSutar&show_icons=true&theme=dracula)
-
-📊
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GautamSutar&theme=blue-green&langs_count=6&cache_seconds=86400)
-
-🌍
-
 🌈 I’m a passionate Full-Stack Web Developer with a love for building scalable and efficient applications 🚀. I enjoy tackling challenges, collaborating with teams 🤝, and creating seamless user experiences ✨. Currently, I’m exploring AI technologies through an internship with Microsoft & SAP (TechSaksham Program) 🌐. Let’s build something amazing together! 🎉
 
 📧 **Reach me at:** [gautamsutar.in@gmail.com](mailto:gautamsutar.in@gmail.com) ✉️ | 📞 +9188171-81384 ☎️  
