@@ -4,7 +4,7 @@
 📧 **Reach me at:** [gautamsutar.in@gmail.com](mailto:gautamsutar.in@gmail.com) ✉️ | 📞 +9188171-81384 ☎️  
 🌍 **Connect with me:**  
 [LinkedIn](https://www.linkedin.com/in/gautam-sutar) 🔗 | [Twitter](https://twitter.com/Gautamsutarr) 🐦  
-📍 **Location:** 15, Krishna Bag Colony, Behind Barfanidham, Indore 🏡
+
 
 ---
 
