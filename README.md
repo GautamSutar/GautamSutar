@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Gautam Sutar 🌟  
 🌈 I’m a passionate Full-Stack Web Developer with a love for building scalable and efficient applications 🚀. I enjoy tackling challenges, collaborating with teams 🤝, and creating seamless user experiences ✨. Currently, I’m exploring AI technologies through an internship with Microsoft & SAP (TechSaksham Program) 🌐. Let’s build something amazing together! 🎉
 
-📧 **Reach me at:** [gautamsutar.in@gmail.com](mailto:gautamsutar.in@gmail.com) ✉️ | 📞 +9188171-81384 ☎️  
+📧 **Reach me at:** [gautamsutar.in@gmail.com](mailto:gautamsutar.in@gmail.com) ✉️ |  
 🌍 **Connect with me:**  
 [LinkedIn](https://www.linkedin.com/in/gautam-sutar) 🔗 | [Twitter](https://twitter.com/Gautamsutarr) 🐦  
 
