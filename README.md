@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Gautam Sutar** 🌟
 
-💻 **Backend & Full-Stack Developer** | Passionate about building scalable APIs, real-time apps, and AI-driven solutions. Skilled in **Python (Django, Flask)**, **JavaScript**, **React.js**, and modern backend stacks. Currently an **AI Intern** at *Microsoft & SAP (TechSaksham Program)* 🚀.
+💻 **Backend & Full-Stack Developer** | Passionate about building scalable APIs, real-time apps, and AI-driven solutions. Skilled in **Python (Django, Flask)**, **JavaScript**, **React.js**, and modern backend stacks. Currently an **AI Intern** at *Microsoft & SAP (TechSaksham Program)* 🚀 and pursuing a **Python Development Internship** at *Alphawizz Technologies* 🐍.
 
 ---
 
@@ -37,6 +37,8 @@
 
 ## 🎯 Experience
 
+* **Python Developer Intern**, *Alphawizz Technologies* — Ongoing
+  Building backend modules and APIs using Python and Flask.
 * **AI Intern**, *Microsoft & SAP (TechSaksham)* — Feb 2025 – Mar 2025
   Developed ML-based solutions using Python, Flask, and Streamlit.
 
