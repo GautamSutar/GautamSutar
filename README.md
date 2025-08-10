@@ -1,85 +1,71 @@
-# 👋 Hi, I’m Gautam Sutar 🌟  
-🌈 I’m a passionate Full-Stack Web Developer with a love for building scalable and efficient applications 🚀. I enjoy tackling challenges, collaborating with teams 🤝, and creating seamless user experiences ✨. Currently, I’m exploring AI technologies through an internship with Microsoft & SAP (TechSaksham Program) 🌐. Let’s build something amazing together! 🎉
+# 👋 Hi, I'm **Gautam Sutar** 🌟
 
-📧 **Reach me at:** [gautamsutar.in@gmail.com](mailto:gautamsutar.in@gmail.com) ✉️ |  
-🌍 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/gautam-sutar) 🔗 | [Twitter](https://twitter.com/Gautamsutarr) 🐦  
-
+🌍 Passionate **Full-Stack Web Developer** who loves building scalable, efficient, and visually stunning applications 🚀. Currently exploring **AI technologies** as an Intern with **Microsoft & SAP (TechSaksham Program)** 💡.
 
 ---
 
-## 🎓 Education 📚  
-- **B.Tech in Computer Science Engineering** 🎓  
-  Prestige Institute of Engineering Management and Research 🏫  
-  *Nov 2022 – July 2026* | CGPA: 7.60 🌟  
+## 🔧 Tech Stack
 
-- **Higher Secondary (12th)** | MP Board 📖  
-  Pink Flower H.S School 🌸  
-  Percentage: 90% 🏆  
-
-- **Secondary (10th)** | MP Board 📝  
-  Pink Flower H.S School 🌷  
-  Percentage: 96.33% 🥇  
-
----
-
-## 💼 Experience 🏢  
-### AI Intern 🤖  
-**Microsoft & SAP (TechSaksham Program)** 🌟  
-*Feb 2025 – Present* ⏳  
-- Engaging in a 4-week AI internship focused on AI technologies and real-world problem-solving 🧩.  
-- Developing an AI project under the mentorship of industry experts 👨‍🏫.  
-- Participating in technical sessions and hands-on training to enhance AI skills 🛠️.  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ---
 
-## 🛠️ Technical Skills 💻  
-- **Languages:** C 🖥️, C++ ⚙️, Python (Basic) 🐍, JavaScript 🌐  
-- **Web Development:** HTML 📄, CSS 🎨, Tailwind CSS 🌈, React.js ⚛️, Node.js 🟢, Express.js 🚀  
-- **Database:** MongoDB 🍃  
-- **Others:** WebSocket 🔗  
+## 🚀 Featured Projects
+
+### **TravelMitra** 🌍
+
+> *A collaborative travel platform for seamless trip planning.*
+
+* **Tech:** HTML, Tailwind CSS, React.js, Node.js, Express.js, MongoDB
+* **Achievement:** Published in the *International Journal of Engineering Applied Science and Management* (Vol. 6, Issue 1, Jan 2025)
+* [🔗 View Project](#) | [📄 Publication](#)
+
+![TravelMitra Demo](https://via.placeholder.com/800x400.png?text=TravelMitra+GIF+Demo)
+
+### **Online Chess Game** ♟
+
+> *Real-time multiplayer chess game with WebSocket.*
+
+* **Tech:** HTML, Tailwind CSS, React.js, Node.js, Express.js, MongoDB, WebSocket
+* [🔗 Play Now](#)
+
+![Chess Game Demo](https://via.placeholder.com/800x400.png?text=Chess+Game+GIF+Demo)
 
 ---
 
-## 🚀 Projects 🌟  
-### TravelMitra 🗺️  
-*Team Size: 6 | Mentor: Dr. Purva Sharma* 👩‍🏫  
-- A collaborative travel platform built with **HTML, Tailwind CSS, React.js, JavaScript, Node.js, Express.js, and MongoDB** 🛠️.  
-- Published in the *International Journal of Engineering Applied Science and Management* (Vol. 6, Issue 1, Jan 2025) 📜.  
-- [Publication Link](#) *(Add the link if available)* 🔗  
+## 🌟 Achievements
 
-### Chess Game ♟️  
-*Solo Project* 🧑‍💻  
-- Developed a fully functional online chess game using **HTML, Tailwind CSS, React.js, JavaScript, Node.js, Express.js, MongoDB, and WebSocket** for real-time gameplay ⚡.  
-- [Play the Game](#) *(Add the link if hosted)* 🎮  
+* **AI Intern** at *Microsoft & SAP (TechSaksham Program)* (Feb 2025 - Present)
+* **Research Publication** on *TravelMitra* in IJEASM
 
 ---
 
-## 📜 Publications 📖  
-- Gautam Sutar, Garveet Jain, Dipika Patel, Anamika Nagar, Gouransh Pathak, Hemant Rajput ✍️.  
-  **"Travel Mitra."** *International Journal of Engineering Applied Science and Management*, Vol. 6, Issue 1, January 2025 📅.  
-  Paper ID: 2025/IJEASM/1/2025/3070 🆔.  
+## 📞 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gautamsutar.in@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gautam-sutar)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://twitter.com/Gautamsutarr)
+
+![Profile Views](https://komarev.com/ghpvc/?username=GautamSutar\&color=blue\&style=flat-square)
 
 ---
 
-## 🌟 Co-Curricular Activities 🎉  
-- Active member of **GDG (Google Developer Groups)**, contributing to community events and tech meetups 🤗.  
-- Member of the **ACM (Association for Computing Machinery)** Chapter, engaging in research discussions and technical workshops 📊.  
+## 📊 GitHub Stats
+
+![Gautam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GautamSutar\&show_icons=true\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GautamSutar\&layout=compact\&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GautamSutar\&theme=tokyonight)
 
 ---
 
-## 🎯 Hobbies & Interests 🎈  
-- Exploring emerging technologies and web research 🔍🖥️  
-- Playing the flute as a creative and meditative pursuit 🎶🎵  
-- Passionate about cricket 🏏 and table tennis 🏓 for teamwork and strategy 🤝  
-- Enjoying music for relaxation and inspiration 🎧🎸  
-
----
-
-## 💡 Fun Fact! 😂  
-I’m a big fan of combining creativity with technology—whether it’s coding a chess game ♟️ or playing the flute 🎶, I love bringing ideas to life in unique ways! 🌟
-
----
-
-### Let’s Collaborate! 🤝  
-I’m always excited to work on innovative projects and learn new technologies 🚀. Feel free to reach out if you’d like to collaborate or just chat about tech! 💬 Let’s create something awesome together! 🎉
+💡 *"Creativity + Technology = Magic"* 🎩
