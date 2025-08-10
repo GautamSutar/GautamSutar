@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Gautam Sutar** 🌟
 
-💻 **Backend & Full-Stack Developer** | Passionate about building scalable APIs, real-time apps, and AI-driven solutions. Skilled in **Python (Django, Flask)**, **JavaScript**, **React.js**, and modern backend stacks. Currently an **AI Intern** at *Microsoft & SAP (TechSaksham Program)* 🚀 and pursuing a **Python Development Internship** at *Alphawizz Technologies* 🐍.
+💻 **Backend & Full-Stack Developer** | Passionate about building scalable APIs, real-time apps, and AI-driven solutions. Skilled in **Python (Django, Flask)**, **JavaScript**, **React.js**, and modern backend stacks. Currently an **AI Intern** at *Microsoft & SAP (TechSaksham Program)* 🚀, pursuing a **Python Development Internship** at *Alphawizz Technologies* 🐍, and working on **AI Interview Taker – Job Verse** based on *Python & Django* 🤖.
 
 ---
 
@@ -20,6 +20,12 @@
 ---
 
 ## 🚀 Featured Projects
+
+### **AI Interview Taker – Job Verse**
+
+* **Tech:** Python, Django, Machine Learning
+* **Description:** AI-powered platform to conduct, evaluate, and score interviews in real time.
+* [💻 Code](#)
 
 ### **AI-powered Resume Screening & Ranking System**
 
