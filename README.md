@@ -152,10 +152,41 @@
 
 ## 📜 Achievements & Certifications
 
-| Type        | Title & Details                                                                                               | Credential                                                                                                                                                             |
-| :---------- | :------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 📄 **Publication**  | **TravelMitra - Enhancing Regional Tourism in Indore** <br> *IJEASM, Jan 2025*                                | -                                                                                                                                                                      |
-| 💼 **Role**         | **Social Media Manager** <br> *Google Developer Group (GDG), PIEMR*                                             | -                                                                                                                                                                      |
-| 🏆 **Challenge**    | **GDG on Campus Solution Challenge 2025** <br> *Powered by Hack2skill*                                         | <a href="https://certificate.hack2skill.com/user/gdgscparticipation/2025H2S01GSC-P14568"><img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square"></a> |
-| 🎓 **Course**       | **Machine Learning A-Z™: AI, Python & R** <br> *Udemy*                                                         | <a href="https://www.udemy.com/certificate/UC-dacaa6fa-ea54-470c-a7c2-f0885e0d61c1/"><img src="https://img.shields.io/badge/View-Certificate-purple?style=flat-square"></a>   |
-| 🎓 **Course**       | **React, NodeJS, Express & MongoDB - The MERN Fullstack Guide ** <br> *Udemy*                                                      | <a href="https://www.udemy.com/certificate/UC-2e3599bd-fc8b-4ca4-beb1-9fb611e9bbfb/"><img src="https://img.shields.io/badge/View-Certificate-purple?style=flat-square"></a>   |
+<div align="center">
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="15%">Type</th>
+      <th width="55%">Title & Details</th>
+      <th width="30%">Credential</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">📄 <strong>Publication</strong></td>
+      <td><strong>TravelMitra - Enhancing Regional Tourism in Indore</strong><br><em>IJEASM, Jan 2025</em></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td align="center">💼 <strong>Role</strong></td>
+      <td><strong>Social Media Manager</strong><br><em>Google Developer Group (GDG), PIEMR</em></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td align="center">🏆 <strong>Challenge</strong></td>
+      <td><strong>GDG on Campus Solution Challenge 2025</strong><br><em>Powered by Hack2skill</em></td>
+      <td align="center"><a href="https://certificate.hack2skill.com/user/gdgscparticipation/2025H2S01GSC-P14568"><img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square"></a></td>
+    </tr>
+    <tr>
+      <td align="center">🎓 <strong>Course</strong></td>
+      <td><strong>Machine Learning A-Z™: AI, Python & R</strong><br><em>Udemy</em></td>
+      <td align="center"><a href="https://www.udemy.com/certificate/UC-dacaa6fa-ea54-470c-a7c2-f0885e0d61c1/"><img src="https://img.shields.io/badge/View-Certificate-purple?style=flat-square"></a></td>
+    </tr>
+    <tr>
+      <td align="center">🎓 <strong>Course</strong></td>
+      <td><strong>React, NodeJS, Express & MongoDB - The MERN Fullstack Guide</strong><br><em>Udemy</em></td>
+      <td align="center"><a href="https://www.udemy.com/certificate/UC-2e3599bd-fc8b-4ca4-beb1-9fb611e9bbfb/"><img src="https://img.shields.io/badge/View-Certificate-purple?style=flat-square"></a></td>
+    </tr>
+  </tbody>
+</table>
+</div>
