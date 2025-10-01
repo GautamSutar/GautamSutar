@@ -127,40 +127,16 @@
 
 ## 🚀 Featured Projects
 
-### **AI Interview Taker – Job Verse**
-*An AI-powered platform to conduct, evaluate, and score interviews in real time.*
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django" alt="Django"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow" alt="ML"/>
-</p>
-[💻 Code](#)
+<div align="center">
 
-### **Customer Churn Prediction**
-*Utilizes an Artificial Neural Network (ANN) with TensorFlow/Keras to predict customer churn, involving detailed data preprocessing and feature scaling.*
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras" alt="Keras"/>
-</p>
-[💻 Code](#) | [🔗 LinkedIn Post](#)
+| Project                         | Description                                                              | Tech Stack                                                                                                                                                                                                                                                              | Links                                                                                                                                                                                                                                                                                        |
+| ------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **AI Interview Taker**          | An AI-powered platform to conduct, evaluate, and score interviews in real time.          | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/> <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow"/>           | <a href="https://github.com/GautamSutar/Ai_Interview"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>                                                                                                                                   |
+| **Customer Churn Prediction**   | Utilizes an Artificial Neural Network (ANN) to predict customer churn.        | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras"/>   | <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Post-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>                                                              |
+| **Animal Image Classification** | A computer vision model to analyze and classify images of different animals.                   | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>                                                                                             | <a href="https://github.com/GautamSutar/Image-Classfications"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>                                                                                                                            |
+| **AI Resume Screening**         | Scores and ranks resumes based on job description relevance using ML algorithms.             | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit"/>     | <a href="https://github.com/GautamSutar/Ai-powered-Resume-Screening-and-Ranking-System"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://gautamsutar-resume-ranking-system-app-liqyh2.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/></a> |
 
-### **Animal Image Classification**
-*A computer vision model built with Python and OpenCV to analyze and classify images of different animals.*
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv" alt="OpenCV"/>
-</p>
-[💻 Code](#)
-
-### **AI-powered Resume Screening & Ranking**
-*Scores and ranks resumes based on job description relevance using ML algorithms.*
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit" alt="Streamlit"/>
-</p>
-[🔗 Live Demo](https://gautamsutar-resume-ranking-system-app-liqyh2.streamlit.app/) | [💻 Code](#)
+</div>
 
 ## 🎯 Experience
 
