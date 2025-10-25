@@ -127,17 +127,119 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<hr>
 
-| Project                         | Description                                                              | Tech Stack                                                                                                                                                                                                                                                              | Links                                                                                                                                                                                                                                                                                        |
-| ------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **AI Interview Taker**          | An AI-powered platform to conduct, evaluate, and score interviews in real time.          | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/> <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow"/>           | <a href="https://github.com/GautamSutar/Ai_Interview"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>                                                                                                                                   |
-| **Customer Churn Prediction**   | Utilizes an Artificial Neural Network (ANN) to predict customer churn.        | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras"/>   | <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Post-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>                                                              |
-| **Animal Image Classification** | A computer vision model to analyze and classify images of different animals.                   | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>                                                                                             | <a href="https://github.com/GautamSutar/Image-Classfications"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>                                                                                                                            |
-| **AI Resume Screening**         | Scores and ranks resumes based on job description relevance using ML algorithms.             | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit"/>     | <a href="https://github.com/GautamSutar/Ai-powered-Resume-Screening-and-Ranking-System"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://gautamsutar-resume-ranking-system-app-liqyh2.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/></a> |
-| **TravelMitra**                 | A tourism platform to find hidden gems, events, and book hotels by budget. | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>   | <a href="https://github.com/GautamSutar/TravelMitra1"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://travel-mitra1-kw8x.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>                                                              |
+### 🔗 LinkChat
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      A platform for real-time anonymous chat and peer-to-peer video calls using WebRTC.
+    </td>
+    <td valign="top" width="30%">
+      <strong>Tech Stack:</strong><br>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+    </td>
+  </tr>
+</table>
+<a href="https://github.com/GautamSutar/LinkChat"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://linkchat-seven.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
 
-</div>
+<hr>
+
+### 🤖 AI Interview Taker
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      An AI-powered platform to conduct, evaluate, and score interviews in real time.
+    </td>
+    <td valign="top" width="30%">
+      <strong>Tech Stack:</strong><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
+      <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow"/>
+    </td>
+  </tr>
+</table>
+<a href="https://github.com/GautamSutar/Ai_Interview"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+<hr>
+
+### 📈 Customer Churn Prediction
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      Utilizes an Artificial Neural Network (ANN) to predict customer churn.
+    </td>
+    <td valign="top" width="30%">
+      <strong>Tech Stack:</strong><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras"/>
+    </td>
+  </tr>
+</table>
+<a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Post-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+
+<hr>
+
+### 🐾 Animal Image Classification
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      A computer vision model to analyze and classify images of different animals.
+    </td>
+    <td valign="top" width="30%">
+      <strong>Tech Stack:</strong><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
+    </td>
+  </tr>
+</table>
+<a href="https://github.com/GautamSutar/Image-Classfications"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+<hr>
+
+### 📄 AI Resume Screening
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      Scores and ranks resumes based on job description relevance using ML algorithms.
+    </td>
+    <td valign="top" width="30%">
+      <strong>Tech Stack:</strong><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit"/>
+    </td>
+  </tr>
+</table>
+<a href="https://github.com/GautamSutar/Ai-powered-Resume-Screening-and-Ranking-System"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://gautamsutar-resume-ranking-system-app-liqyh2.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/></a>
+
+<hr>
+
+### ✈️ TravelMitra
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      A tourism platform to find hidden gems, events, and book hotels by budget.
+    </td>
+    <td valign="top" width="30%">
+      <strong>Tech Stack:</strong><br>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+    </td>
+  </tr>
+</table>
+<a href="https://github.com/GautamSutar/TravelMitra1"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://travel-mitra1-kw8x.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+<hr>
 
 ## 🎯 Experience
 
