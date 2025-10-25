@@ -129,11 +129,17 @@
 
 <hr>
 
-### 🔗 LinkChat
-<table>
+<!-- Project 1: LinkChat -->
+<table bgcolor="#FFBF00" cellpadding="4"><tr><td>
+<table bgcolor="#0D1117" width="100%">
+  <tr>
+    <td colspan="2">
+      <h3>🔗 LinkChat</h3>
+    </td>
+  </tr>
   <tr>
     <td valign="top" width="70%">
-      A platform for real-time anonymous chat and peer-to-peer video calls using WebRTC.
+      <font size="4"><b>A platform for real-time anonymous chat and peer-to-peer video calls using WebRTC.</b></font>
     </td>
     <td valign="top" width="30%">
       <strong>Tech Stack:</strong><br>
@@ -143,17 +149,28 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/GautamSutar/LinkChat"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://linkchat-seven.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+    </td>
+  </tr>
 </table>
-<a href="https://github.com/GautamSutar/LinkChat"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://linkchat-seven.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+</td></tr></table>
 
-<hr>
+<br>
 
-### 🤖 AI Interview Taker
-<table>
+<!-- Project 2: AI Interview Taker -->
+<table bgcolor="#FFBF00" cellpadding="4"><tr><td>
+<table bgcolor="#0D1117" width="100%">
+  <tr>
+    <td colspan="2">
+      <h3>🤖 AI Interview Taker</h3>
+    </td>
+  </tr>
   <tr>
     <td valign="top" width="70%">
-      An AI-powered platform to conduct, evaluate, and score interviews in real time.
+      <font size="4"><b>An AI-powered platform to conduct, evaluate, and score interviews in real time.</b></font>
     </td>
     <td valign="top" width="30%">
       <strong>Tech Stack:</strong><br>
@@ -162,16 +179,27 @@
       <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow"/>
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/GautamSutar/Ai_Interview"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
 </table>
-<a href="https://github.com/GautamSutar/Ai_Interview"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</td></tr></table>
 
-<hr>
+<br>
 
-### 📈 Customer Churn Prediction
-<table>
+<!-- Project 3: Customer Churn Prediction -->
+<table bgcolor="#FFBF00" cellpadding="4"><tr><td>
+<table bgcolor="#0D1117" width="100%">
+  <tr>
+    <td colspan="2">
+      <h3>📈 Customer Churn Prediction</h3>
+    </td>
+  </tr>
   <tr>
     <td valign="top" width="70%">
-      Utilizes an Artificial Neural Network (ANN) to predict customer churn.
+      <font size="4"><b>Utilizes an Artificial Neural Network (ANN) to predict customer churn.</b></font>
     </td>
     <td valign="top" width="30%">
       <strong>Tech Stack:</strong><br>
@@ -180,17 +208,28 @@
       <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras"/>
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Post-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+    </td>
+  </tr>
 </table>
-<a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Post-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</td></tr></table>
 
-<hr>
+<br>
 
-### 🐾 Animal Image Classification
-<table>
+<!-- Project 4: Animal Image Classification -->
+<table bgcolor="#FFBF00" cellpadding="4"><tr><td>
+<table bgcolor="#0D1117" width="100%">
+  <tr>
+    <td colspan="2">
+      <h3>🐾 Animal Image Classification</h3>
+    </td>
+  </tr>
   <tr>
     <td valign="top" width="70%">
-      A computer vision model to analyze and classify images of different animals.
+      <font size="4"><b>A computer vision model to analyze and classify images of different animals.</b></font>
     </td>
     <td valign="top" width="30%">
       <strong>Tech Stack:</strong><br>
@@ -198,16 +237,27 @@
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/GautamSutar/Image-Classfications"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
 </table>
-<a href="https://github.com/GautamSutar/Image-Classfications"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</td></tr></table>
 
-<hr>
+<br>
 
-### 📄 AI Resume Screening
-<table>
+<!-- Project 5: AI Resume Screening -->
+<table bgcolor="#FFBF00" cellpadding="4"><tr><td>
+<table bgcolor="#0D1117" width="100%">
+  <tr>
+    <td colspan="2">
+      <h3>📄 AI Resume Screening</h3>
+    </td>
+  </tr>
   <tr>
     <td valign="top" width="70%">
-      Scores and ranks resumes based on job description relevance using ML algorithms.
+      <font size="4"><b>Scores and ranks resumes based on job description relevance using ML algorithms.</b></font>
     </td>
     <td valign="top" width="30%">
       <strong>Tech Stack:</strong><br>
@@ -216,17 +266,28 @@
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit"/>
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/GautamSutar/Ai-powered-Resume-Screening-and-Ranking-System"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://gautamsutar-resume-ranking-system-app-liqyh2.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/></a>
+    </td>
+  </tr>
 </table>
-<a href="https://github.com/GautamSutar/Ai-powered-Resume-Screening-and-Ranking-System"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://gautamsutar-resume-ranking-system-app-liqyh2.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/></a>
+</td></tr></table>
 
-<hr>
+<br>
 
-### ✈️ TravelMitra
-<table>
+<!-- Project 6: TravelMitra -->
+<table bgcolor="#FFBF00" cellpadding="4"><tr><td>
+<table bgcolor="#0D1117" width="100%">
+  <tr>
+    <td colspan="2">
+      <h3>✈️ TravelMitra</h3>
+    </td>
+  </tr>
   <tr>
     <td valign="top" width="70%">
-      A tourism platform to find hidden gems, events, and book hotels by budget.
+      <font size="4"><b>A tourism platform to find hidden gems, events, and book hotels by budget.</b></font>
     </td>
     <td valign="top" width="30%">
       <strong>Tech Stack:</strong><br>
@@ -235,11 +296,14 @@
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/GautamSutar/TravelMitra1"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://travel-mitra1-kw8x.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+    </td>
+  </tr>
 </table>
-<a href="https://github.com/GautamSutar/TravelMitra1"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://travel-mitra1-kw8x.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-
-<hr>
+</td></tr></table>
 
 ## 🎯 Experience
 
