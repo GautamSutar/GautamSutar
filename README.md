@@ -117,7 +117,7 @@
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/jeffreytse/jstse-static/main/images/aws-logo.gif" width="60" height="60" alt="AWS" />
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
         <br>AWS
       </td>
       <td align="center" width="96">
