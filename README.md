@@ -58,86 +58,89 @@
 
 ---
 
-# 💻 Tools & Technologies  
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
+<div align="center">
+  <h1>💻 Tools & Technologies</h1>
+  
+  <table style="border: none; border-collapse: collapse;">
+    <tr>
+      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
+        <br>Python
+      </td>
+      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" width="60" height="60" alt="Django" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
+        <br>Django
+      </td>
+      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="60" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60" style="filter: invert(39%) sepia(97%) saturate(748%) hue-rotate(185deg) brightness(90%) contrast(90%);" />
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React" />
-      <br>React
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60" style="filter: invert(39%) sepia(97%) saturate(748%) hue-rotate(185deg) brightness(90%) contrast(90%);" alt="Flask" />
+        <br>Flask
+      </td>
+      <td align="center" width="96">
+        <!-- Swapped for a spinning React GIF -->
+        <img src="https://raw.githubusercontent.com/xg4/xg4/master/assets/react.gif" width="60" height="60" alt="React" />
+        <br>React
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" alt="Express.js" />
-      <br>Express.js
-    </td>
-    <td align="center" width="96">
+        <br>Express.js
+      </td>
+      <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="60" height="60" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="96">
+        <br>Redis
+      </td>
+      <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="Docker" />
-      <br>Docker
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/machine-learning.gif" width="100" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
+        <br>Docker
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <!-- Updated to AWS GIF -->
+        <img src="https://raw.githubusercontent.com/jeffreytse/jstse-static/main/images/aws-logo.gif" width="65" />
+        <br>AWS
+      </td>
+      <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
+        <br>TensorFlow
+      </td>
+      <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="60" height="60" alt="Kafka" />
-      <br>Kafka
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/machine-learning.gif" width="100" />
-      <br>Machine Learning
-    </td>
-    <td align="center" width="96">
-       <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/machine-learning.gif" width="100" />
-      <br>Artificial Intelligence
-    </td>
-  </tr>
-</table>
+        <br>Kafka
+      </td>
+      <td align="center" width="96">
+        <!-- Machine Learning GIF -->
+        <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/machine-learning.gif" width="65" />
+        <br>ML
+      </td>
+      <td align="center" width="96">
+        <!-- Updated to AI GIF -->
+        <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/ai.gif" width="65" />
+        <br>AI
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="center">
