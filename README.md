@@ -142,12 +142,7 @@
   </table>
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gautamsutar&theme=dracula&column=6" alt="GitHub Trophies"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamsutar&theme=dracula" alt="GitHub Streak" />
-</p>
+<img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 <h3 align="center">My Skillset</h3>
 <table align="center">
