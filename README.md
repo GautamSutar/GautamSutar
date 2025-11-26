@@ -62,26 +62,37 @@
 ### ⚡ Tech Stack & Skills  
 
 <p align="center">
-<p align="center">
-  <!-- Animated Skills Icons with gaps -->
-  <img src="assets/python.gif" width="80" height="75" style="margin:15px; border-radius:50%;"/>
-  <img src="assets/django.gif" width="100" height="100" style="margin:15px;"/>
-  <img src="assets/js.gif" width="100" height="105" style="margin:15px;"/>
-  <img src="assets/flask.gif" width="100" height="100" style="margin:15px;"/>
-  <img src="assets/ts.gif" width="250" height="350" style="margin:15px;"/>
-  <img src="assets/kafka.png" width="150" height="150" style="margin:15px;"/>
-  <img src="assets/react.gif" width="100" height="100" style="margin:15px;"/>
-  <img src="assets/node.gif" width="100" height="100" style="margin:15px;"/>
-  <img src="assets/express-js.png" width="100" height="100" style="margin:15px;"/>
-  <img src="assets/mongodb.gif" width="200" height="200" style="margin:15px;"/>
-  <img src="assets/postgresql.jpg" width="120" height="130" style="margin:15px;"/>
-  <img src="assets/redis.gif" width="130" height="130" style="margin:15px;"/>
-  <img src="assets/aws.gif" width="100" height="100" style="margin:15px;"/>
-  <img src="assets/tensorflow.gif" width="120" height="125" style="margin:15px;"/>
-  <img src="assets/docker.gif" width="200" height="250" style="margin:15px;"/>
-  <img src="assets/machine-learning.gif" width="100" height="100" style="margin:15px;"/>
-  <img src="assets/ai.gif" width="100" height="100" style="margin:15px;"/>
+
+  <!-- Row 1 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="80" style="margin:18px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" style="margin:18px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80" style="margin:18px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" height="80" style="margin:18px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80" height="80" style="margin:18px;"/>
+
+  <!-- Row 2 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="90" height="90" style="margin:18px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="90" height="90" style="margin:18px; filter: invert(1);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="90" height="90" style="margin:18px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="90" height="90" style="margin:18px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="90" height="90" style="margin:18px;"/>
+
+  <!-- Row 3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="80" height="80" style="margin:18px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="110" height="110" style="margin:18px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="90" height="90" style="margin:18px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="90" height="90" style="margin:18px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="90" height="90" style="margin:18px;"/>
+
+  <!-- Row 4 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80" style="margin:18px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" height="80" style="margin:18px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="80" height="80" style="margin:18px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="85" height="80" style="margin:18px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="80" height="80" style="margin:18px;"/>
+
 </p>
+
 
 
 <p align="center">
