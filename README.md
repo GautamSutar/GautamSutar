@@ -56,44 +56,71 @@
 📢 **Social Media Manager** @ *Google Developer Group (GDG) – PIEMR*  
 👨‍💻 **Core Team Member** @ *ACM Chapter, PIEMR*  
 
+<style>
+  .tech-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 25px;
+  }
 
+  .tech-item {
+    animation: float 3s ease-in-out infinite;
+    text-align: center;
+  }
 
+  .tech-item:hover {
+    transform: scale(1.15);
+    transition: 0.3s;
+  }
+
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+  }
+</style>
 
 ### ⚡ Tech Stack & Skills  
+<div class="tech-grid">
 
-<p align="center">
+  <!-- Programming -->
+  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="75" />
+  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="75" />
+  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="75" />
+  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75" />
+  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="75" />
+  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="75" />
 
-  <!-- Row 1 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="80" style="margin:18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" style="margin:18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80" style="margin:18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" height="80" style="margin:18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80" height="80" style="margin:18px;"/>
+  <!-- Frontend -->
+  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="75" />
+  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="75" />
+  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="75" />
+  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="75" />
+  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="75" />
+  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="75" />
 
-  <!-- Row 2 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="90" height="90" style="margin:18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="90" height="90" style="margin:18px; filter: invert(1);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="90" height="90" style="margin:18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="90" height="90" style="margin:18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="90" height="90" style="margin:18px;"/>
+  <!-- Backend -->
+  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="75" />
+  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="75" style="filter: invert(1);" />
+  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="75" />
 
-  <!-- Row 3 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="80" height="80" style="margin:18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="110" height="110" style="margin:18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="90" height="90" style="margin:18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="90" height="90" style="margin:18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="90" height="90" style="margin:18px;"/>
+  <!-- Databases -->
+  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="75" />
+  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="75" />
+  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="75" />
 
-  <!-- Row 4 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80" style="margin:18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" height="80" style="margin:18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="80" height="80" style="margin:18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="85" height="80" style="margin:18px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="80" height="80" style="margin:18px;"/>
+  <!-- Cloud & DevOps -->
+  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="75" />
+  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="75" />
 
-</p>
+  <!-- Misc -->
+  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="75" />
+  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="75" />
+  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="75" />
+  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="75" />
 
-
+</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gautamsutar&theme=dracula&column=6" alt="GitHub Trophies"/>
