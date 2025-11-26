@@ -117,7 +117,7 @@
 
   <tr>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60" alt="AWS" />
+        <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/machine-learning.gif" width="100" />
       <br>AWS
     </td>
     <td align="center" width="96">
@@ -129,11 +129,11 @@
       <br>Kafka
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/github/explore/main/topics/machine-learning/machine-learning.png" width="60" height="60" alt="Machine Learning" />
+        <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/machine-learning.gif" width="100" />
       <br>Machine Learning
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/github/explore/main/topics/artificial-intelligence/artificial-intelligence.png" width="60" height="60" alt="Artificial Intelligence" />
+       <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/machine-learning.gif" width="100" />
       <br>Artificial Intelligence
     </td>
   </tr>
