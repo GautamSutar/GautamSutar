@@ -56,21 +56,23 @@
 📢 **Social Media Manager** @ *Google Developer Group (GDG) – PIEMR*  
 👨‍💻 **Core Team Member** @ *ACM Chapter, PIEMR*  
 
+---
+
 <style>
-  .tech-grid {
+  .skill-grid {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 25px;
+    margin-top: 20px;
   }
 
-  .tech-item {
+  .skill-item {
     animation: float 3s ease-in-out infinite;
-    text-align: center;
   }
 
-  .tech-item:hover {
-    transform: scale(1.15);
+  .skill-item:hover {
+    transform: scale(1.12);
     transition: 0.3s;
   }
 
@@ -81,44 +83,31 @@
   }
 </style>
 
-### ⚡ Tech Stack & Skills  
-<div class="tech-grid">
+### ⚡ Tech Stack & Skills
 
-  <!-- Programming -->
-  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="75" />
-  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="75" />
-  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="75" />
-  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75" />
-  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="75" />
-  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="75" />
+<div class="skill-grid">
 
-  <!-- Frontend -->
-  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="75" />
-  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="75" />
-  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="75" />
-  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="75" />
-  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="75" />
-  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="75" />
+  <img class="skill-item" src="assets/python.gif" width="80" height="75" />
+  <img class="skill-item" src="assets/django.gif" width="100" height="100" />
+  <img class="skill-item" src="assets/js.gif" width="100" height="105" />
+  <img class="skill-item" src="assets/flask.gif" width="100" height="100" />
+  <img class="skill-item" src="assets/ts.gif" width="250" height="350" />
+  <img class="skill-item" src="assets/kafka.png" width="150" height="150" />
 
-  <!-- Backend -->
-  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="75" />
-  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="75" style="filter: invert(1);" />
-  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="75" />
+  <img class="skill-item" src="assets/react.gif" width="100" height="100" />
+  <img class="skill-item" src="assets/node.gif" width="100" height="100" />
+  <img class="skill-item" src="assets/express-js.png" width="100" height="100" />
 
-  <!-- Databases -->
-  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="75" />
-  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="75" />
-  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="75" />
+  <img class="skill-item" src="assets/mongodb.gif" width="200" height="200" />
+  <img class="skill-item" src="assets/postgresql.jpg" width="120" height="130" />
+  <img class="skill-item" src="assets/redis.gif" width="130" height="130" />
 
-  <!-- Cloud & DevOps -->
-  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="75" />
-  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="75" />
+  <img class="skill-item" src="assets/aws.gif" width="100" height="100" />
+  <img class="skill-item" src="assets/tensorflow.gif" width="120" height="125" />
+  <img class="skill-item" src="assets/docker.gif" width="200" height="250" />
 
-  <!-- Misc -->
-  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="75" />
-  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="75" />
-  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="75" />
-  <img class="tech-item" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="75" />
+  <img class="skill-item" src="assets/machine-learning.gif" width="100" height="100" />
+  <img class="skill-item" src="assets/ai.gif" width="100" height="100" />
 
 </div>
 
