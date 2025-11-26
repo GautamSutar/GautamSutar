@@ -58,46 +58,86 @@
 
 ---
 
-### ⚡ Tech Stack & Skills
+# 💻 Tools & Technologies  
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="60" height="60" alt="Django" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="60" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React" />
+      <br>React
+    </td>
+  </tr>
 
-<div align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" alt="Express.js" />
+      <br>Express.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="60" height="60" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="Docker" />
+      <br>Docker
+    </td>
+  </tr>
 
-<table>
-<tr>
-  <td><img src="assets/python.gif" width="85"></td>
-  <td><img src="assets/django.gif" width="110"></td>
-  <td><img src="assets/js.gif" width="110"></td>
-  <td><img src="assets/flask.gif" width="110"></td>
-</tr>
-
-<tr>
-  <td><img src="assets/ts.gif" width="240"></td>
-  <td><img src="assets/kafka.png" width="150"></td>
-  <td><img src="assets/react.gif" width="110"></td>
-  <td><img src="assets/node.gif" width="110"></td>
-</tr>
-
-<tr>
-  <td><img src="assets/express-js.png" width="110"></td>
-  <td><img src="assets/mongodb.gif" width="180"></td>
-  <td><img src="assets/postgresql.jpg" width="150"></td>
-  <td><img src="assets/redis.gif" width="150"></td>
-</tr>
-
-<tr>
-  <td><img src="assets/aws.gif" width="110"></td>
-  <td><img src="assets/tensorflow.gif" width="140"></td>
-  <td><img src="assets/docker.gif" width="220"></td>
-  <td><img src="assets/machine-learning.gif" width="110"></td>
-</tr>
-
-<tr>
-  <td colspan="4" align="center">
-    <img src="assets/ai.gif" width="140">
-  </td>
-</tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="60" height="60" alt="Kafka" />
+      <br>Kafka
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/github/explore/main/topics/machine-learning/machine-learning.png" width="60" height="60" alt="Machine Learning" />
+      <br>Machine Learning
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/github/explore/main/topics/artificial-intelligence/artificial-intelligence.png" width="60" height="60" alt="Artificial Intelligence" />
+      <br>Artificial Intelligence
+    </td>
+  </tr>
 </table>
-
 </div>
 
 <p align="center">
