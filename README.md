@@ -85,7 +85,7 @@
         <br>Flask
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/xg4/xg4/master/assets/react.gif" width="60" height="60" alt="React" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /
         <br>React
       </td>
     </tr>
