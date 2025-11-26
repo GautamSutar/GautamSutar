@@ -58,83 +58,85 @@
 
 ---
 
-<div align="center">
+<div align="center" style="width: 100%;">
   <h1>💻 Tools & Technologies</h1>
   
-  <table style="border: none; border-collapse: collapse;">
+  <table width="100%" style="border: none; border-collapse: collapse;">
     <tr>
-      <td align="center" width="96">
+      <td align="center">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python" />
         <br>Python
       </td>
-      <td align="center" width="96">
+      <td align="center">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" width="60" height="60" alt="Django" />
         <br>Django
       </td>
-      <td align="center" width="96">
+      <td align="center">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript" />
         <br>JavaScript
       </td>
-      <td align="center" width="96">
+      <td align="center">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="60" alt="TypeScript" />
         <br>TypeScript
       </td>
-      <td align="center" width="96">
-        <!-- FIXED: White/Visible Flask Icon -->
+      <td align="center">
         <img src="https://cdn.simpleicons.org/flask/white" width="60" height="60" alt="Flask" />
         <br>Flask
       </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
         <br>React
       </td>
     </tr>
     <tr>
-      <td align="center" width="96">
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
         <br>Node.js
       </td>
-      <td align="center" width="96">
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" style="filter: invert(100%);" alt="Express.js" />
         <br>Express.js
       </td>
-      <td align="center" width="96">
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" />
         <br>MongoDB
       </td>
-      <td align="center" width="96">
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL" />
         <br>PostgreSQL
       </td>
-      <td align="center" width="96">
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="60" height="60" alt="Redis" />
         <br>Redis
       </td>
-      <td align="center" width="96">
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="Docker" />
         <br>Docker
       </td>
     </tr>
     <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
         <br>AWS
       </td>
-      <td align="center" width="96">
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" alt="TensorFlow" />
         <br>TensorFlow
       </td>
-      <td align="center" width="96">
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="60" height="60" alt="Kafka" />
         <br>Kafka
       </td>
-      <td align="center" width="96">
+      <td align="center">
         <img src="https://cdn-icons-gif.flaticon.com/6172/6172534.gif" width="60" height="60" alt="Machine Learning" />
         <br>ML
       </td>
-      <td align="center" width="96">
+      <td align="center">
         <img src="https://cdn-icons-gif.flaticon.com/6454/6454239.gif" width="60" height="60" alt="AI" />
         <br>AI
+      </td>
+      <!-- Empty cell to balance the last row (optional) -->
+      <td align="center">
       </td>
     </tr>
   </table>
@@ -180,6 +182,15 @@
     <td></td>
   </tr>
 </table>
+
+<div align="center">
+  <picture>
+    <!-- Dark Mode (The Green One) -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/output/github-contribution-grid-snake-dark.svg">
+    <!-- Light Mode -->
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ## 🚀 Featured Projects
 
