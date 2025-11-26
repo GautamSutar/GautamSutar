@@ -79,7 +79,7 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60" alt="Flask" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60" style="filter: invert(39%) sepia(97%) saturate(748%) hue-rotate(185deg) brightness(90%) contrast(90%);" />
       <br>Flask
     </td>
     <td align="center" width="96">
