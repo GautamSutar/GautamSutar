@@ -80,11 +80,11 @@
         <br>TypeScript
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60" style="filter: invert(39%) sepia(97%) saturate(748%) hue-rotate(185deg) brightness(90%) contrast(90%);" alt="Flask" />
+        <!-- FIXED: White/Visible Flask Icon -->
+        <img src="https://cdn.simpleicons.org/flask/white" width="60" height="60" alt="Flask" />
         <br>Flask
       </td>
       <td align="center" width="96">
-        <!-- Swapped for a spinning React GIF -->
         <img src="https://raw.githubusercontent.com/xg4/xg4/master/assets/react.gif" width="60" height="60" alt="React" />
         <br>React
       </td>
@@ -95,7 +95,7 @@
         <br>Node.js
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" alt="Express.js" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" style="filter: invert(100%);" alt="Express.js" />
         <br>Express.js
       </td>
       <td align="center" width="96">
@@ -117,8 +117,7 @@
     </tr>
     <tr>
       <td align="center" width="96">
-        <!-- Updated to AWS GIF -->
-        <img src="https://raw.githubusercontent.com/jeffreytse/jstse-static/main/images/aws-logo.gif" width="65" />
+        <img src="https://raw.githubusercontent.com/jeffreytse/jstse-static/main/images/aws-logo.gif" width="60" height="60" alt="AWS" />
         <br>AWS
       </td>
       <td align="center" width="96">
@@ -130,13 +129,11 @@
         <br>Kafka
       </td>
       <td align="center" width="96">
-        <!-- Machine Learning GIF -->
-        <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/machine-learning.gif" width="65" />
+        <img src="https://cdn-icons-gif.flaticon.com/6172/6172534.gif" width="60" height="60" alt="Machine Learning" />
         <br>ML
       </td>
       <td align="center" width="96">
-        <!-- Updated to AI GIF -->
-        <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/ai.gif" width="65" />
+        <img src="https://cdn-icons-gif.flaticon.com/6454/6454239.gif" width="60" height="60" alt="AI" />
         <br>AI
       </td>
     </tr>
