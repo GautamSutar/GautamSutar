@@ -58,56 +58,45 @@
 
 ---
 
-<style>
-  .skill-grid {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 25px;
-    margin-top: 20px;
-  }
-
-  .skill-item {
-    animation: float 3s ease-in-out infinite;
-  }
-
-  .skill-item:hover {
-    transform: scale(1.12);
-    transition: 0.3s;
-  }
-
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-    100% { transform: translateY(0px); }
-  }
-</style>
-
 ### ⚡ Tech Stack & Skills
 
-<div class="skill-grid">
+<div align="center">
 
-  <img class="skill-item" src="assets/python.gif" width="80" height="75" />
-  <img class="skill-item" src="assets/django.gif" width="100" height="100" />
-  <img class="skill-item" src="assets/js.gif" width="100" height="105" />
-  <img class="skill-item" src="assets/flask.gif" width="100" height="100" />
-  <img class="skill-item" src="assets/ts.gif" width="250" height="350" />
-  <img class="skill-item" src="assets/kafka.png" width="150" height="150" />
+<table>
+<tr>
+  <td><img src="assets/python.gif" width="85"></td>
+  <td><img src="assets/django.gif" width="110"></td>
+  <td><img src="assets/js.gif" width="110"></td>
+  <td><img src="assets/flask.gif" width="110"></td>
+</tr>
 
-  <img class="skill-item" src="assets/react.gif" width="100" height="100" />
-  <img class="skill-item" src="assets/node.gif" width="100" height="100" />
-  <img class="skill-item" src="assets/express-js.png" width="100" height="100" />
+<tr>
+  <td><img src="assets/ts.gif" width="240"></td>
+  <td><img src="assets/kafka.png" width="150"></td>
+  <td><img src="assets/react.gif" width="110"></td>
+  <td><img src="assets/node.gif" width="110"></td>
+</tr>
 
-  <img class="skill-item" src="assets/mongodb.gif" width="200" height="200" />
-  <img class="skill-item" src="assets/postgresql.jpg" width="120" height="130" />
-  <img class="skill-item" src="assets/redis.gif" width="130" height="130" />
+<tr>
+  <td><img src="assets/express-js.png" width="110"></td>
+  <td><img src="assets/mongodb.gif" width="180"></td>
+  <td><img src="assets/postgresql.jpg" width="150"></td>
+  <td><img src="assets/redis.gif" width="150"></td>
+</tr>
 
-  <img class="skill-item" src="assets/aws.gif" width="100" height="100" />
-  <img class="skill-item" src="assets/tensorflow.gif" width="120" height="125" />
-  <img class="skill-item" src="assets/docker.gif" width="200" height="250" />
+<tr>
+  <td><img src="assets/aws.gif" width="110"></td>
+  <td><img src="assets/tensorflow.gif" width="140"></td>
+  <td><img src="assets/docker.gif" width="220"></td>
+  <td><img src="assets/machine-learning.gif" width="110"></td>
+</tr>
 
-  <img class="skill-item" src="assets/machine-learning.gif" width="100" height="100" />
-  <img class="skill-item" src="assets/ai.gif" width="100" height="100" />
+<tr>
+  <td colspan="4" align="center">
+    <img src="assets/ai.gif" width="140">
+  </td>
+</tr>
+</table>
 
 </div>
 
