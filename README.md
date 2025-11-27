@@ -1,9 +1,3 @@
-<!-- Banner -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Welcome Banner" width="100%" height="300px"/>
-</p>
-
 <p align="center">
   <!-- Futuristic Neon Glitch Name -->
   <img src="assets/indian-flag.gif" alt="Indian-Flag" width="100%" height="250px"/>
