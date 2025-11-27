@@ -63,11 +63,12 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GautamSutar&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GautamSutar&theme=react&hide_border=true&background=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=gautamsutar&theme=react&hide_border=true&background=0D1117)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GautamSutar&bg_color=0D1117&color=34D399&line=34D399&point=1A9F85&hide_border=true)
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=GautamSutar&theme=algolia&no-frame=true&no-bg=true)
+
 
 
 
