@@ -58,18 +58,36 @@
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=GautamSutar&label=PROFILE+VIEWS&style=for-the-badge&color=0D1117)
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GautamSutar&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
+  <!-- ROW 1: Visitor Count (Smallest item at the top) -->
+  <img src="https://komarev.com/ghpvc/?username=GautamSutar&label=PROFILE+VIEWS&style=for-the-badge&color=0D1117" alt="Visitor Count" />
+  
+  <br/><br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GautamSutar&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+  <!-- ROW 2: Trophies (Requires full width) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=GautamSutar&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
 
+  <br/><br/>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GautamSutar&bg_color=0D1117&color=34D399&line=34D399&point=1A9F85&hide_border=true)
+  <!-- ROW 3: Stats & Languages (Side-by-Side Columns) -->
+  <!-- We use height="180" to force them to be the same size and align perfectly -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=GautamSutar&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamSutar&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
+  </p>
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=GautamSutar&theme=algolia&no-frame=true&no-bg=true)
+  <!-- ROW 4: Activity Graph (Wide) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GautamSutar&bg_color=0D1117&color=34D399&line=34D399&point=1A9F85&hide_border=true" alt="Activity Graph" />
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D1117)
+  <br/><br/>
+
+  <!-- ROW 5: Quote (Footer) -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D1117" alt="Quote" />
+
+</div>
 
 
 
