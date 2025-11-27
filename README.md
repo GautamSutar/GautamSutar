@@ -60,32 +60,30 @@
 
 <div align="center">
 
-  <!-- ROW 1: Quote (Now at the top) -->
+
+  <!-- ROW 5: Quote (Footer) -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D1117" alt="Quote" />
   
   <br/><br/>
 
-  <!-- ROW 2: Trophies -->
+  <!-- ROW 2: Trophies (Requires full width) -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=GautamSutar&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 
   <br/><br/>
 
-  <!-- ROW 3: Main Stats & Streak (Side-by-Side) -->
-  <!-- I added the Streak Stats here. height="180" keeps them aligned. -->
+  <!-- ROW 3: Stats & Languages (Side-by-Side Columns) -->
+  <!-- We use height="180" to force them to be the same size and align perfectly -->
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=GautamSutar&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
-    <img src="https://streak-stats.demolab.com/?user=GautamSutar&theme=react&hide_border=true&background=0D1117" height="180" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamSutar&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
   </p>
 
-  <!-- ROW 4: Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamSutar&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <!-- ROW 4: Activity Graph (Wide) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GautamSutar&bg_color=0D1117&color=34D399&line=34D399&point=1A9F85&hide_border=true" alt="Activity Graph" />
 
   <br/><br/>
-
-  <!-- ROW 5: Activity Graph (Wide footer) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GautamSutar&bg_color=0D1117&color=34D399&line=34D399&point=1A9F85&hide_border=true" alt="Activity Graph" />
 
 </div>
 
