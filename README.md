@@ -60,7 +60,6 @@
 
 <div align="center">
 
-
   <!-- ROW 5: Quote (Footer) -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D1117" alt="Quote" />
   
@@ -85,10 +84,8 @@
 
   <br/><br/>
 
+
 </div>
-
-
-
 
 <div align="center" style="width: 100%;">
   <h1>💻 Tools & Technologies</h1>
