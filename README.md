@@ -43,20 +43,26 @@
   <img src="assets/animated-neon-divider.gif" width="500"/>
 </p>
 
-## 🌟 About Me  
-
-💡 *A self-believer who loves turning **dreams into reality*** ✨  
-
----
-
-🎓 **4th Year | 7th Semester | Tech Enthusiast**  
-🤝 **AI Intern** @ *Microsoft & SAP (TechSaksham Program)*  
-🐍 **Python Developer Intern** @ *Alphawizz Technologies*  
-🎶 **Flute Lover** 🎵  
-📢 **Social Media Manager** @ *Google Developer Group (GDG) – PIEMR*  
-👨‍💻 **Core Team Member** @ *ACM Chapter, PIEMR*  
-
----
+<table>
+  <tr>
+    <td width="60%" valign="center">
+      <h2>👋 Hi, I'm Gautam Sutar</h2>
+      <p>💡 <i>"A self-believer who loves turning <b>dreams into reality</b>"</i> ✨</p>
+      <br/>
+      <p>
+        🎓 <b>4th Year Undergrad</b> (7th Sem) <br/>
+        🤝 <b>AI Intern</b> @ Microsoft & SAP <br/>
+        🐍 <b>Python Dev</b> @ Alphawizz Technologies <br/>
+        📢 <b>Lead</b> @ Google Developer Group (PIEMR) <br/>
+        👨‍💻 <b>Core Team</b> @ ACM Chapter <br/>
+        🎶 <b>Flute Lover</b> 🎵
+      </p>
+    </td>
+    <td width="40%" valign="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding GIF" width="100%">
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
@@ -90,7 +96,8 @@
 <div align="center" style="width: 100%;">
   <h1>💻 Tools & Technologies</h1>
   
-  <table width="100%" style="border: none; border-collapse: collapse;">
+  <!-- Added table-layout: fixed to ensure it forces full width -->
+  <table width="100%" style="width: 100%; table-layout: fixed; border: none; border-collapse: collapse;">
     <tr>
       <td align="center">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python" />
@@ -164,7 +171,6 @@
         <img src="https://cdn-icons-gif.flaticon.com/6454/6454239.gif" width="60" height="60" alt="AI" />
         <br>AI
       </td>
-      <!-- Empty cell to balance the last row (optional) -->
       <td align="center">
       </td>
     </tr>
