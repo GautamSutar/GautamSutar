@@ -14,34 +14,55 @@
   <img src="assets/GautamSutar.gif" alt="Gautam Sutar" width="100%"/>
 </p>
 
-<h3 align="center">📬 Connect With Me</h3>
-<p align="center">
-  <a href="mailto:gautamsutar.in@gmail.com">
-    <img height="40" width="40" src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gautam-sutar">
-    <img height="40" width="40"  src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/GautamSutar">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/Gautamsutarr">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/x/FFFFFF" alt="X"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Mono+One&size=28&pause=1000&color=FFA500&center=true&vCenter=true&width=850&lines=Python+Developer;Backend+%26+Full-Stack+Maestro;AI+%26+ML+Architect;Building+Scalable+APIs" />
-</p>
+  <!-- 1. The Dynamic Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=34D399&center=true&vCenter=true&width=900&lines=Python+Developer+%7C+AI+%26+ML+Architect;Building+Scalable+APIs+%26+Backend+Systems;Turning+Data+into+Intelligence+%F0%9F%A7%A0;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 
+  <!-- 2. The Neon Divider (Public Link) -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<p align="center">
-  <!-- Futuristic Neon Divider -->
-  <img src="assets/animated-neon-divider.gif" width="500"/>
-</p>
+  <br/><br/>
+
+  <!-- 3. Connect Section with "Button" Style Badges -->
+  <h3 style="color: #34D399;">📬 Connect With Me</h3>
+  
+  <table style="border: none; border-collapse: collapse;">
+    <tr>
+      <!-- Gmail -->
+      <td style="padding: 0 15px;">
+        <a href="mailto:gautamsutar.in@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" />
+        </a>
+      </td>
+      <!-- LinkedIn -->
+      <td style="padding: 0 15px;">
+        <a href="https://www.linkedin.com/in/gautam-sutar">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+        </a>
+      </td>
+      <!-- GitHub -->
+      <td style="padding: 0 15px;">
+        <a href="https://github.com/GautamSutar">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub" />
+        </a>
+      </td>
+      <!-- X / Twitter -->
+      <td style="padding: 0 15px;">
+        <a href="https://x.com/Gautamsutarr">
+          <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="40" alt="X" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  <br/>
+  
+  <!-- Subtle Footer Line -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+</div>
 
 <table>
   <tr>
