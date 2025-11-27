@@ -58,6 +58,55 @@
 
 ---
 
+<!-- GitHub Stats Card Style -->
+<div align="center">
+  
+<table>
+  <tr>
+    <!-- LEFT CARD -->
+    <td align="left" style="background:#0d1117; padding:25px; border-radius:12px; width:420px;">
+      <h2 style="color:#34d399;">Your GitHub Stats</h2>
+      <p>⭐ <strong>Total Stars Earned:</strong> 3k</p>
+      <p>🔁 <strong>Total Commits (2025):</strong> 120</p>
+      <p>🔧 <strong>Total PRs:</strong> 25</p>
+      <p>🐞 <strong>Total Issues:</strong> 9</p>
+      <p>📦 <strong>Contributed (last year):</strong> 20</p>
+      <!-- CIRCLE GRADE -->
+      <div align="center">
+        <svg width="150" height="150">
+          <circle cx="75" cy="75" r="60" stroke="#0f766e" stroke-width="12" fill="none"/>
+          <circle cx="75" cy="75" r="60" stroke="#34d399" stroke-width="12" fill="none"
+          stroke-dasharray="360" stroke-dashoffset="80"
+          stroke-linecap="round"/>
+          <text x="50%" y="54%" fill="#fff" font-size="32px" font-weight="bold" text-anchor="middle">A+</text>
+        </svg>
+      </div>
+    </td>
+    <!-- RIGHT CARD -->
+    <td align="left" style="background:#0d1117; padding:25px; border-radius:12px; width:420px;">
+      <h2 style="color:#34d399;">📊 Activity Overview</h2>
+      <h1 style="color:#34d399; font-size:42px; margin:0;">38</h1>
+      <p style="margin-top:-10px;">Total Contributions</p>
+      <hr style="border:1px solid #1f2937;"/>
+      <!-- Current Streak Circle -->
+      <div align="center">
+        <svg width="140" height="140">
+          <circle cx="70" cy="70" r="58" stroke="#0f766e" stroke-width="10" fill="none"/>
+          <text x="50%" y="55%" fill="#34d399" font-size="48px" font-weight="bold" text-anchor="middle">0</text>
+        </svg>
+        <p><strong>Current Streak</strong><br>Nov 27</p>
+      </div>
+      <hr style="border:1px solid #1f2937;"/>
+      <h2 style="color:#34d399;">🔥 Longest Streak: 2 Days</h2>
+      <p>Mar 3, 2023 – Mar 4, 2023</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+
 <div align="center" style="width: 100%;">
   <h1>💻 Tools & Technologies</h1>
   
