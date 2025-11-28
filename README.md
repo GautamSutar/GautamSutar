@@ -515,3 +515,7 @@
   <!-- Footer Neon Line -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+<div align="center">
+  <h3>🌍 Visitor Map</h3>
+  <img src="https://profile-counter.glitch.me/GautamSutar/count.svg" alt="visitor count"/>
+</div>
