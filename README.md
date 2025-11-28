@@ -80,6 +80,12 @@
 </table>
 
 <div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=true" alt="Spotify Playing" />
+  </a>
+</div>
+
+<div align="center">
 
   <!-- ROW 5: Quote (Footer) -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D1117" alt="Quote" />
