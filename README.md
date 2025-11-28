@@ -230,185 +230,166 @@
   </tr>
 </table>
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-<hr>
+<div align="center">
+  <!-- Animated Header Line -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-<!-- Project 1: LinkChat -->
-<table bgcolor="#FFBF00" cellpadding="4"><tr><td>
-<table bgcolor="#0D1117" width="100%">
+<br/>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  
+  <!-- PROJECT 1: LINKCHAT -->
   <tr>
-    <td colspan="2">
+    <td width="60%" valign="top">
       <h3>🔗 LinkChat</h3>
+      <p>
+        A platform for <b>real-time anonymous chat</b> and <b>peer-to-peer video calls</b> using WebRTC. It ensures privacy and low-latency communication.
+      </p>
+      <a href="https://github.com/GautamSutar/LinkChat">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+      </a>
+      <a href="https://linkchat-seven.vercel.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30"/>
+      </a>
+    </td>
+    <td width="40%" valign="top" align="right">
+      <h4 align="right">Tech Stack</h4>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
   </tr>
-  <tr>
-    <td valign="top" width="70%">
-      <font size="4"><b>A platform for real-time anonymous chat and peer-to-peer video calls using WebRTC.</b></font>
-    </td>
-    <td valign="top" width="30%">
-      <strong>Tech Stack:</strong><br>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://github.com/GautamSutar/LinkChat"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      <a href="https://linkchat-seven.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-    </td>
-  </tr>
-</table>
-</td></tr></table>
 
-<br>
+  <!-- SEPARATOR -->
+  <tr><td colspan="2"><br/><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-86443c6475a9.gif" width="100%" height="2"><br/><br/></td></tr>
 
-<!-- Project 2: AI Interview Taker -->
-<table bgcolor="#FFBF00" cellpadding="4"><tr><td>
-<table bgcolor="#0D1117" width="100%">
+  <!-- PROJECT 2: AI INTERVIEW TAKER -->
   <tr>
-    <td colspan="2">
+    <td width="60%" valign="top">
       <h3>🤖 AI Interview Taker</h3>
+      <p>
+        An intelligent platform to <b>conduct, evaluate, and score interviews</b> in real-time using AI, providing instant feedback to candidates.
+      </p>
+      <a href="https://github.com/GautamSutar/Ai_Interview">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+      </a>
+    </td>
+    <td width="40%" valign="top" align="right">
+      <h4 align="right">Tech Stack</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
     </td>
   </tr>
-  <tr>
-    <td valign="top" width="70%">
-      <font size="4"><b>An AI-powered platform to conduct, evaluate, and score interviews in real time.</b></font>
-    </td>
-    <td valign="top" width="30%">
-      <strong>Tech Stack:</strong><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
-      <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://github.com/GautamSutar/Ai_Interview"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
-  </tr>
-</table>
-</td></tr></table>
 
-<br>
+  <!-- SEPARATOR -->
+  <tr><td colspan="2"><br/><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-86443c6475a9.gif" width="100%" height="2"><br/><br/></td></tr>
 
-<!-- Project 3: Customer Churn Prediction -->
-<table bgcolor="#FFBF00" cellpadding="4"><tr><td>
-<table bgcolor="#0D1117" width="100%">
+  <!-- PROJECT 3: CUSTOMER CHURN PREDICTION -->
   <tr>
-    <td colspan="2">
+    <td width="60%" valign="top">
       <h3>📈 Customer Churn Prediction</h3>
+      <p>
+        Utilizes an <b>Artificial Neural Network (ANN)</b> to analyze behavior and predict customer churn with high accuracy.
+      </p>
+      <a href="#">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+      </a>
+    </td>
+    <td width="40%" valign="top" align="right">
+      <h4 align="right">Tech Stack</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
     </td>
   </tr>
-  <tr>
-    <td valign="top" width="70%">
-      <font size="4"><b>Utilizes an Artificial Neural Network (ANN) to predict customer churn.</b></font>
-    </td>
-    <td valign="top" width="30%">
-      <strong>Tech Stack:</strong><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/>
-      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Post-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-    </td>
-  </tr>
-</table>
-</td></tr></table>
 
-<br>
+  <!-- SEPARATOR -->
+  <tr><td colspan="2"><br/><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-86443c6475a9.gif" width="100%" height="2"><br/><br/></td></tr>
 
-<!-- Project 4: Animal Image Classification -->
-<table bgcolor="#FFBF00" cellpadding="4"><tr><td>
-<table bgcolor="#0D1117" width="100%">
+  <!-- PROJECT 4: ANIMAL IMAGE CLASSIFICATION -->
   <tr>
-    <td colspan="2">
+    <td width="60%" valign="top">
       <h3>🐾 Animal Image Classification</h3>
+      <p>
+        A <b>Computer Vision</b> model designed to analyze and classify images of different animals using deep learning.
+      </p>
+      <a href="https://github.com/GautamSutar/Image-Classfications">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+      </a>
+    </td>
+    <td width="40%" valign="top" align="right">
+      <h4 align="right">Tech Stack</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
     </td>
   </tr>
-  <tr>
-    <td valign="top" width="70%">
-      <font size="4"><b>A computer vision model to analyze and classify images of different animals.</b></font>
-    </td>
-    <td valign="top" width="30%">
-      <strong>Tech Stack:</strong><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://github.com/GautamSutar/Image-Classfications"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
-  </tr>
-</table>
-</td></tr></table>
 
-<br>
+  <!-- SEPARATOR -->
+  <tr><td colspan="2"><br/><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-86443c6475a9.gif" width="100%" height="2"><br/><br/></td></tr>
 
-<!-- Project 5: AI Resume Screening -->
-<table bgcolor="#FFBF00" cellpadding="4"><tr><td>
-<table bgcolor="#0D1117" width="100%">
+  <!-- PROJECT 5: AI RESUME SCREENING -->
   <tr>
-    <td colspan="2">
+    <td width="60%" valign="top">
       <h3>📄 AI Resume Screening</h3>
+      <p>
+        Scores and ranks resumes based on job description relevance. Helps HR teams automate the <b>shortlisting process</b>.
+      </p>
+      <a href="https://github.com/GautamSutar/Ai-powered-Resume-Screening-and-Ranking-System">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+      </a>
+      <a href="https://gautamsutar-resume-ranking-system-app-liqyh2.streamlit.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30"/>
+      </a>
+    </td>
+    <td width="40%" valign="top" align="right">
+      <h4 align="right">Tech Stack</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
     </td>
   </tr>
-  <tr>
-    <td valign="top" width="70%">
-      <font size="4"><b>Scores and ranks resumes based on job description relevance using ML algorithms.</b></font>
-    </td>
-    <td valign="top" width="30%">
-      <strong>Tech Stack:</strong><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://github.com/GautamSutar/Ai-powered-Resume-Screening-and-Ranking-System"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      <a href="https://gautamsutar-resume-ranking-system-app-liqyh2.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/></a>
-    </td>
-  </tr>
-</table>
-</td></tr></table>
 
-<br>
+  <!-- SEPARATOR -->
+  <tr><td colspan="2"><br/><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-86443c6475a9.gif" width="100%" height="2"><br/><br/></td></tr>
 
-<!-- Project 6: TravelMitra -->
-<table bgcolor="#FFBF00" cellpadding="4"><tr><td>
-<table bgcolor="#0D1117" width="100%">
+  <!-- PROJECT 6: TRAVELMITRA -->
   <tr>
-    <td colspan="2">
+    <td width="60%" valign="top">
       <h3>✈️ TravelMitra</h3>
+      <p>
+        A tourism platform to find <b>hidden gems, events, and book hotels</b>. Tailored for budget travelers seeking authentic experiences.
+      </p>
+      <a href="https://github.com/GautamSutar/TravelMitra1">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+      </a>
+      <a href="https://travel-mitra1-kw8x.vercel.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30"/>
+      </a>
+    </td>
+    <td width="40%" valign="top" align="right">
+      <h4 align="right">Tech Stack</h4>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <br/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
     </td>
   </tr>
-  <tr>
-    <td valign="top" width="70%">
-      <font size="4"><b>A tourism platform to find hidden gems, events, and book hotels by budget.</b></font>
-    </td>
-    <td valign="top" width="30%">
-      <strong>Tech Stack:</strong><br>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://github.com/GautamSutar/TravelMitra1"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      <a href="https://travel-mitra1-kw8x.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-    </td>
-  </tr>
+
 </table>
-</td></tr></table>
+
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 🎯 Experience
 
