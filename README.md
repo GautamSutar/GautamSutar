@@ -441,6 +441,9 @@
 
 </table>
 <br/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gautamsutar&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
+</p>
 
 <div align="center">
   
