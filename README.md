@@ -68,7 +68,7 @@
         🎓 <b>4th Year Undergrad</b> (7th Sem) <br/>
         🤝 <b>AI Intern</b> @ Microsoft & SAP <br/>
         🐍 <b>Python Dev</b> @ Alphawizz Technologies <br/>
-        📢 <b>Lead</b> @ Google Developer Group (PIEMR) <br/>
+        📢 <b>Social Media Manager</b> @ Google Developer Group (PIEMR) <br/>
         👨‍💻 <b>Core Team</b> @ ACM Chapter <br/>
         🎶 <b>Flute Lover</b> 🎵
       </p>
