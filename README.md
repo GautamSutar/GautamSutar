@@ -402,43 +402,105 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gautamsutar&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
 </p>
 
-## 📜 Achievements & Certifications
-
 <div align="center">
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="15%">Type</th>
-      <th width="55%">Title & Details</th>
-      <th width="30%">Credential</th>
+  
+  <!-- Header with Animated Trophy Icon -->
+  <h2>
+    <img src="https://media.giphy.com/media/WnIu6vAWt5ul3UVIrf/giphy.gif" width="35" style="vertical-align:middle"> 
+    Achievements & Certifications
+    <img src="https://media.giphy.com/media/WnIu6vAWt5ul3UVIrf/giphy.gif" width="35" style="vertical-align:middle">
+  </h2>
+
+  <!-- Neon Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+  <br/><br/>
+
+  <table width="100%" style="border: none; border-collapse: collapse;">
+    <!-- HEADER ROW (Optional, serves as titles) -->
+    <tr style="border-bottom: 2px solid #30363D;">
+      <th width="20%" align="center">CATEGORY</th>
+      <th width="55%" align="left">DETAILS</th>
+      <th width="25%" align="center">PROOF</th>
     </tr>
-  </thead>
-  <tbody>
+    <!-- ROW 1: PUBLICATION -->
     <tr>
-      <td align="center">📄 <strong>Publication</strong></td>
-      <td><strong>TravelMitra - Enhancing Regional Tourism in Indore</strong><br><em>IJEASM, Jan 2025</em></td>
-      <td align="center">-</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Publication-FFD700?style=for-the-badge&logo=googlescholar&logoColor=black" />
+      </td>
+      <td align="left">
+        <h3>📄 TravelMitra - Enhancing Tourism</h3>
+        Published in <i>IJEASM, Jan 2025</i><br/>
+        <font color="#8b949e">Enhancing Regional Tourism in Indore using tech.</font>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Published-Success?style=flat-square&logo=checkmark" />
+      </td>
     </tr>
-    <tr>
-      <td align="center">💼 <strong>Role</strong></td>
-      <td><strong>Social Media Manager</strong><br><em>Google Developer Group (GDG), PIEMR</em></td>
-      <td align="center">-</td>
+    <!-- ROW 2: ROLE -->
+    <tr style="border-top: 1px solid #21262d;">
+      <td align="center">
+        <img src="https://img.shields.io/badge/Leadership-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+      </td>
+      <td align="left">
+        <h3>💼 Social Media Manager</h3>
+        <i>Google Developer Group (GDG), PIEMR</i><br/>
+        <font color="#8b949e">Leading digital presence and community engagement.</font>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Active-Blue?style=flat-square&logo=linkedin" />
+      </td>
     </tr>
-    <tr>
-      <td align="center">🏆 <strong>Challenge</strong></td>
-      <td><strong>GDG on Campus Solution Challenge 2025</strong><br><em>Powered by Hack2skill</em></td>
-      <td align="center"><a href="https://certificate.hack2skill.com/user/gdgscparticipation/2025H2S01GSC-P14568"><img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square"></a></td>
+    <!-- ROW 3: CHALLENGE -->
+    <tr style="border-top: 1px solid #21262d;">
+      <td align="center">
+        <img src="https://img.shields.io/badge/Hackathon-EA4335?style=for-the-badge&logo=google&logoColor=white" />
+      </td>
+      <td align="left">
+        <h3>🏆 GDG Solution Challenge 2025</h3>
+        <i>Powered by Hack2skill</i><br/>
+        <font color="#8b949e">Global problem-solving challenge participation.</font>
+      </td>
+      <td align="center">
+        <a href="https://certificate.hack2skill.com/user/gdgscparticipation/2025H2S01GSC-P14568">
+          <img src="https://img.shields.io/badge/View_Cert-2ea44f?style=fiat-square&logo=github&logoColor=white" />
+        </a>
+      </td>
     </tr>
-    <tr>
-      <td align="center">🎓 <strong>Course</strong></td>
-      <td><strong>Machine Learning A-Z™: AI, Python & R</strong><br><em>Udemy</em></td>
-      <td align="center"><a href="https://www.udemy.com/certificate/UC-dacaa6fa-ea54-470c-a7c2-f0885e0d61c1/"><img src="https://img.shields.io/badge/View-Certificate-purple?style=flat-square"></a></td>
+    <!-- ROW 4: COURSE (ML) -->
+    <tr style="border-top: 1px solid #21262d;">
+      <td align="center">
+        <img src="https://img.shields.io/badge/Course-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+      </td>
+      <td align="left">
+        <h3>🎓 Machine Learning A-Z™</h3>
+        <i>Udemy (Python & R)</i><br/>
+        <font color="#8b949e">Comprehensive guide to AI models and algorithms.</font>
+      </td>
+      <td align="center">
+        <a href="https://www.udemy.com/certificate/UC-dacaa6fa-ea54-470c-a7c2-f0885e0d61c1/">
+          <img src="https://img.shields.io/badge/Verify-A435F0?style=flat-square&logo=udemy&logoColor=white" />
+        </a>
+      </td>
     </tr>
-    <tr>
-      <td align="center">🎓 <strong>Course</strong></td>
-      <td><strong>React, NodeJS, Express & MongoDB - The MERN Fullstack Guide</strong><br><em>Udemy</em></td>
-      <td align="center"><a href="https://www.udemy.com/certificate/UC-2e3599bd-fc8b-4ca4-beb1-9fb611e9bbfb/"><img src="https://img.shields.io/badge/View-Certificate-purple?style=flat-square"></a></td>
+    <!-- ROW 5: COURSE (MERN) -->
+    <tr style="border-top: 1px solid #21262d;">
+      <td align="center">
+        <img src="https://img.shields.io/badge/Course-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      </td>
+      <td align="left">
+        <h3>🎓 MERN Fullstack Guide</h3>
+        <i>Udemy (React, Node, Express, MongoDB)</i><br/>
+        <font color="#8b949e">Building scalable full-stack web applications.</font>
+      </td>
+      <td align="center">
+        <a href="https://www.udemy.com/certificate/UC-2e3599bd-fc8b-4ca4-beb1-9fb611e9bbfb/">
+          <img src="https://img.shields.io/badge/Verify-A435F0?style=flat-square&logo=udemy&logoColor=white" />
+        </a>
+      </td>
     </tr>
-  </tbody>
-</table>
+  </table>
+  <br/>
+  <!-- Footer Neon Line -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
