@@ -402,16 +402,45 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🎯 Experience
+<h2 align="center">⚡ Professional Experience</h2>
 
-* **Python Developer Intern**, *Alphawizz Technologies* — Ongoing
-  Building backend modules and APIs using Python and Flask.
-* **AI Intern**, *Microsoft & SAP (TechSaksham)* — Feb 2025 – Mar 2025
-  Developed ML-based solutions using Python, Flask, and Streamlit.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gautamsutar&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
-</p>
+<table width="100%" style="border: none; border-collapse: collapse;">
+  
+  <!-- Job 1 -->
+  <tr>
+    <td width="15%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Ongoing-34D399?style=for-the-badge" />
+    </td>
+    <td width="85%">
+      <h3>🐍 Python Developer Intern</h3>
+      <strong>Alphawizz Technologies</strong>
+      <br/>
+      <font color="#8b949e">Building robust backend modules and scalable APIs using Python and Flask architecture.</font>
+    </td>
+  </tr>
+  
+  <tr><td colspan="2"><br/></td></tr> <!-- Spacer -->
+
+  <!-- Job 2 -->
+  <tr>
+    <td width="15%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Feb_2025-0078D4?style=for-the-badge" />
+    </td>
+    <td width="85%">
+      <h3>🤝 AI Intern</h3>
+      <strong>Microsoft & SAP (TechSaksham)</strong>
+      <br/>
+      <font color="#8b949e">Developed cutting-edge ML solutions using Python, Flask, and Streamlit for real-world applications.</font>
+    </td>
+  </tr>
+
+</table>
+<br/>
 
 <div align="center">
   
@@ -514,8 +543,4 @@
   <br/>
   <!-- Footer Neon Line -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-<div align="center">
-  <h3>🌍 Visitor Map</h3>
-  <img src="https://profile-counter.glitch.me/GautamSutar/count.svg" alt="visitor count"/>
 </div>
