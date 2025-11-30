@@ -233,14 +233,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GautamSutar&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </div>
 <br/>
-<h3 align="center">💻 Tech Stack (In Motion)</h3>
-<div align="center">
-  <!-- Speed: scrollamount="12" (Faster) or "8" (Slower) -->
-  <marquee behavior="scroll" direction="left" scrollamount="12" width="100%">
-    <img src="https://skillicons.dev/icons?i=python,django,react,js,ts,flask,ml,tensorflow,aws,docker,git,github,vscode,mongodb,postgres,redis,nodejs,express&theme=dark" height="60" alt="Skills" />
-  </marquee>
-</div>
-<br/>
+
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
