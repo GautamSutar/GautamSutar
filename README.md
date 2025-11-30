@@ -551,3 +551,9 @@
   <!-- Footer Neon Line -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+<h3 align="center">😂 Daily Dev Joke</h3>
+<div align="center">
+  <!-- A wide card that shows a random programming joke -->
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&hide_border=true" alt="Dev Joke" width="90%" />
+</div>
+<br/>
