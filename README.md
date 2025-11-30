@@ -228,12 +228,24 @@
     <td></td>
   </tr>
 </table>
-<h3 align="center">⏰ My Coding Schedule</h3>
+<h3 align="center">📊 Coding Habits & Portfolio Details</h3>
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GautamSutar&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  <table style="border: none; border-collapse: collapse; width: 100%;">
+    <tr>
+      <!-- Left: Coding Schedule -->
+      <td width="50%" align="center" style="padding: 10px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GautamSutar&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="100%" />
+      </td>
+      
+      <!-- Right: Detailed Stats -->
+      <td width="50%" align="center" style="padding: 10px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GautamSutar&theme=tokyonight" alt="Profile Details" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 <br/>
-
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
