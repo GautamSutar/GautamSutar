@@ -237,7 +237,6 @@
       <td width="50%" align="center" style="padding: 10px;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GautamSutar&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="100%" />
       </td>
-      
       <!-- Right: Detailed Stats -->
       <td width="50%" align="center" style="padding: 10px;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GautamSutar&theme=tokyonight" alt="Profile Details" width="100%" />
