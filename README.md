@@ -189,10 +189,6 @@
     </tr>
   </table>
 </div>
-<h3 align="center">⚡ Weekly Coding Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GautamSutar&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="WakaTime Stats" />
-</div>
 <br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
