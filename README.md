@@ -562,3 +562,5 @@
 <div align="center">
   <img src="https://iso.500.kevops.xyz/api/isometric-contributions?user=GautamSutar&theme=rogue&conf=25" alt="Isometric Contributions" width="100%" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,34D399&height=100&section=footer" width="100%" />
