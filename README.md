@@ -558,10 +558,5 @@
   <!-- Footer Neon Line -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-<h3 align="center">🏅 Global Ranking</h3>
-<div align="center">
-  <a href="https://github.dev/GautamSutar">
-    <img src="https://github-profile-trophy.vercel.app/?username=GautamSutar&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="Git Awards" />
-  </a>
-</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,34D399&height=100&section=footer" width="100%" />
