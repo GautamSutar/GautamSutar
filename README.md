@@ -94,10 +94,8 @@
   <br/><br/>
 
  <p align="center">
-  <!-- Replace 'YOUR-VERCEL-APP-NAME' with your new Vercel domain -->
-  <img src="https://YOUR-VERCEL-APP-NAME.vercel.app/api?username=GautamSutar&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
-  
-  <img src="https://YOUR-VERCEL-APP-NAME.vercel.app/api/top-langs/?username=GautamSutar&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GautamSutar&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GautamSutar&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
 </p>
 
   <!-- ROW 4: Activity Graph (Wide) -->
