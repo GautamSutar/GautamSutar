@@ -93,12 +93,12 @@
 
   <br/><br/>
 
-  <!-- ROW 3: Stats & Languages (Side-by-Side Columns) -->
-  <!-- We use height="180" to force them to be the same size and align perfectly -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=GautamSutar&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamSutar&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
-  </p>
+ <p align="center">
+  <!-- Replace 'YOUR-VERCEL-APP-NAME' with your new Vercel domain -->
+  <img src="https://YOUR-VERCEL-APP-NAME.vercel.app/api?username=GautamSutar&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
+  
+  <img src="https://YOUR-VERCEL-APP-NAME.vercel.app/api/top-langs/?username=GautamSutar&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
+</p>
 
   <!-- ROW 4: Activity Graph (Wide) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GautamSutar&bg_color=0D1117&color=34D399&line=34D399&point=1A9F85&hide_border=true" alt="Activity Graph" />
