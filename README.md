@@ -558,9 +558,4 @@
   <!-- Footer Neon Line -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-<h3 align="center">🧊 3D Contribution View</h3>
-<div align="center">
-  <img src="https://iso.500.kevops.xyz/api/isometric-contributions?user=GautamSutar&theme=rogue&conf=25" alt="Isometric Contributions" width="100%" />
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,34D399&height=100&section=footer" width="100%" />
