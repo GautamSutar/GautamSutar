@@ -263,7 +263,36 @@
 
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   
-  <!-- PROJECT 1: LINKCHAT -->
+  <!-- PROJECT 1: SUSTAINABLE VENDOR DECISION SYSTEM (NEW) -->
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🌍 Sustainable Vendor Decision System</h3>
+      <p>
+        <b>🏆 Kaggle x Google AI Agent Capstone Project</b>
+        <br/>
+        A <b>Multi-Agent AI System</b> that automates sustainable vendor selection. It utilizes <b>Google Gemini</b> for ESG scoring and the <b>TOPSIS algorithm</b> for multi-criteria ranking.
+      </p>
+      <a href="https://github.com/GautamSutar/Sustainable-Vendor-Decision-System-CogitoCore?tab=readme-ov-file">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+      </a>
+      <a href="https://sustainable-vendor-decision-system-cogitocore-tl2juvlnpmbdbat7.streamlit.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30"/>
+      </a>
+    </td>
+    <td width="40%" valign="top" align="right">
+      <h4 align="right">Tech Stack</h4>
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AI_Agents-000000?style=flat-square&logo=robotframework&logoColor=white"/>
+    </td>
+  </tr>
+
+  <!-- SEPARATOR -->
+  <tr><td colspan="2"><br/><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-86443c6475a9.gif" width="100%" height="2"><br/><br/></td></tr>
+
+  <!-- PROJECT 2: LINKCHAT -->
   <tr>
     <td width="60%" valign="top">
       <h3>🔗 LinkChat</h3>
@@ -290,7 +319,7 @@
   <!-- SEPARATOR -->
   <tr><td colspan="2"><br/><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-86443c6475a9.gif" width="100%" height="2"><br/><br/></td></tr>
 
-  <!-- PROJECT 2: AI INTERVIEW TAKER -->
+  <!-- PROJECT 3: AI INTERVIEW TAKER -->
   <tr>
     <td width="60%" valign="top">
       <h3>🤖 AI Interview Taker</h3>
@@ -313,7 +342,7 @@
   <!-- SEPARATOR -->
   <tr><td colspan="2"><br/><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-86443c6475a9.gif" width="100%" height="2"><br/><br/></td></tr>
 
-  <!-- PROJECT 3: CUSTOMER CHURN PREDICTION -->
+  <!-- PROJECT 4: CUSTOMER CHURN PREDICTION -->
   <tr>
     <td width="60%" valign="top">
       <h3>📈 Customer Churn Prediction</h3>
@@ -336,7 +365,7 @@
   <!-- SEPARATOR -->
   <tr><td colspan="2"><br/><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-86443c6475a9.gif" width="100%" height="2"><br/><br/></td></tr>
 
-  <!-- PROJECT 4: ANIMAL IMAGE CLASSIFICATION -->
+  <!-- PROJECT 5: ANIMAL IMAGE CLASSIFICATION -->
   <tr>
     <td width="60%" valign="top">
       <h3>🐾 Animal Image Classification</h3>
@@ -357,7 +386,7 @@
   <!-- SEPARATOR -->
   <tr><td colspan="2"><br/><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-86443c6475a9.gif" width="100%" height="2"><br/><br/></td></tr>
 
-  <!-- PROJECT 5: AI RESUME SCREENING -->
+  <!-- PROJECT 6: AI RESUME SCREENING -->
   <tr>
     <td width="60%" valign="top">
       <h3>📄 AI Resume Screening</h3>
@@ -383,7 +412,7 @@
   <!-- SEPARATOR -->
   <tr><td colspan="2"><br/><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-86443c6475a9.gif" width="100%" height="2"><br/><br/></td></tr>
 
-  <!-- PROJECT 6: TRAVELMITRA -->
+  <!-- PROJECT 7: TRAVELMITRA -->
   <tr>
     <td width="60%" valign="top">
       <h3>✈️ TravelMitra</h3>
