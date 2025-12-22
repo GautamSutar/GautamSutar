@@ -100,6 +100,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GautamSutar&theme=tokyonight" alt="Most Commits" />
 </div>
 
+<h3 align="center">💓 Coding Pulse</h3>
+<div align="center">
+  <img src="https://github-readme-sparkline.vercel.app/api?username=GautamSutar&range=30&theme=midnight-green&hide_border=true" width="100%" alt="Sparkline" />
+</div>
+<br/>
+
   <br/><br/>
 
  <p align="center">
