@@ -107,7 +107,7 @@
 <!-- LeetCode Stats -->
 <h3 align="center">🧠 LeetCode Solving Stats</h3>
 <div align="center">
-  <a href="https://leetcode.com/u/H-u_7g12klPz/">
+  <a href="https://leetcode.com/u/GautamSutar/">
     <img src="https://leetcard.jacoblin.cool/H-u_7g12klPz?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </div>
