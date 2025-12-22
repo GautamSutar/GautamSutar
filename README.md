@@ -104,12 +104,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GautamSutar&theme=tokyonight" alt="Most Commits" />
 </div>
 
-<!-- 3D Rotating Chart -->
-<h3 align="center">🔮 My 3D Skill Sphere</h3>
+<!-- LeetCode Stats -->
+<h3 align="center">🧠 LeetCode Solving Stats</h3>
 <div align="center">
-  <a href="https://github.com/GautamSutar">
-    <img src="https://github-readme-tag-cloud.vercel.app/api?id=GautamSutar&categories=programming,frameworks,tools&background=0D1117&color=34D399&height=250&width=500" alt="3D Skill Cloud" />
-  </a>
+  <img src="https://leetcard.jacoblin.cool/GautamSutar?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </div>
 <br/>
 
