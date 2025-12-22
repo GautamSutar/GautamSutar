@@ -65,6 +65,10 @@
 </div>
 <br/>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,34D399&height=100&section=header&text=About%20Me&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+</div>
+
 <table>
   <tr>
     <td width="60%" valign="center">
@@ -98,10 +102,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GautamSutar&theme=tokyonight" alt="Repos per Language" />
   &nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GautamSutar&theme=tokyonight" alt="Most Commits" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,34D399&height=100&section=header&text=About%20Me&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
   <br/><br/>
