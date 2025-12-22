@@ -94,11 +94,11 @@
   <br/><br/>
 
   <!-- ROW 2: Trophies (Requires full width) -->
- <h3 align="center">🪐 Contribution Solar System</h3>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/solar-system?username=GautamSutar&theme=tokyonight&utcOffset=5.5" alt="Solar System" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GautamSutar&theme=tokyonight" alt="Repos per Language" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GautamSutar&theme=tokyonight" alt="Most Commits" />
 </div>
-<br/>
 
   <br/><br/>
 
