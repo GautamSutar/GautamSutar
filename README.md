@@ -94,9 +94,19 @@
   <br/><br/>
 
   <!-- ROW 2: Trophies (Requires full width) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=GautamSutar&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+ <div align="center">
+  <img src="https://github-profile-achievements.vercel.app/?username=GautamSutar&theme=algolia&layout=compact&hide_border=true" alt="GitHub Achievements" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GautamSutar&theme=tokyonight" width="100%" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <a href="https://holopin.io/@GautamSutar">
+    <img src="https://holopin.me/GautamSutar" alt="Holopin Badges" />
   </a>
+</div>
 
   <br/><br/>
 
