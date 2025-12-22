@@ -94,19 +94,11 @@
   <br/><br/>
 
   <!-- ROW 2: Trophies (Requires full width) -->
- <div align="center">
-  <img src="https://github-profile-achievements.vercel.app/?username=GautamSutar&theme=algolia&layout=compact&hide_border=true" alt="GitHub Achievements" />
-</div>
-
+ <h3 align="center">🪐 Contribution Solar System</h3>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GautamSutar&theme=tokyonight" width="100%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/solar-system?username=GautamSutar&theme=tokyonight&utcOffset=5.5" alt="Solar System" width="100%" />
 </div>
-
-<div align="center">
-  <a href="https://holopin.io/@GautamSutar">
-    <img src="https://holopin.me/GautamSutar" alt="Holopin Badges" />
-  </a>
-</div>
+<br/>
 
   <br/><br/>
 
