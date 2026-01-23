@@ -1,6 +1,8 @@
 <p align="center">
   <!-- Futuristic Neon Glitch Name -->
   <img src="assets/indian-flag.gif" alt="Indian-Flag" width="100%" height="250px"/>
+  <br/>
+  <b>Service to the nation is the highest duty. Jai Hind Jai Bharat 🇮🇳</b>
 </p>
 
 <p align="center">
