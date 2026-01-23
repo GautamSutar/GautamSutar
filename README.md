@@ -1,9 +1,6 @@
 <p align="center">
+  <!-- Futuristic Neon Glitch Name -->
   <img src="assets/indian-flag.gif" alt="Indian-Flag" width="100%" height="250px"/>
-  <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9933&center=true&vCenter=true&width=800&lines=Service+to+the+nation+is+the+highest+duty.;Jai+Hind+Jai+Bharat+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
-  </a>
 </p>
 
 <p align="center">
