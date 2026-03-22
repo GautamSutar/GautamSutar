@@ -207,6 +207,8 @@
         <br>AI
       </td>
       <td align="center">
+        <img src="https://cdn.simpleicons.org/langchain/white" width="60" height="60" alt="LangChain" />
+        <br>LangChain
       </td>
     </tr>
   </table>
