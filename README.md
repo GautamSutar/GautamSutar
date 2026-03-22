@@ -199,11 +199,11 @@
         <br>Kafka
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="60" height="60" alt="Machine Learning" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" alt="Machine Learning" />
         <br>ML
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="60" height="60" alt="AI" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60" alt="AI" />
         <br>AI
       </td>
       <td align="center">
