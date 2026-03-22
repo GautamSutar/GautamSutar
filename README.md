@@ -219,45 +219,28 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
 </picture>
-<<h3 align="center">My Skillset</h3>
-<table align="center">
-  <tr>
-    <td align="center"><strong>Python</strong></td>
-    <td><img src="https://img.shields.io/badge/90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
-    <td align="center"><strong>JavaScript</strong></td>
-    <td><img src="https://img.shields.io/badge/70%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>React</strong></td>
-    <td><img src="https://img.shields.io/badge/85%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></td>
-    <td align="center"><strong>Django</strong></td>
-    <td><img src="https://img.shields.io/badge/80%25-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Flask</strong></td>
-    <td><img src="https://img.shields.io/badge/70%25-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></td>
-    <td align="center"><strong>Node.js</strong></td>
-    <td><img src="https://img.shields.io/badge/75%25-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>MongoDB</strong></td>
-    <td><img src="https://img.shields.io/badge/80%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></td>
-    <td align="center"><strong>PostgreSQL</strong></td>
-    <td><img src="https://img.shields.io/badge/80%25-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Machine Learning</strong></td>
-    <td><img src="https://img.shields.io/badge/75%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/></td>
-    <td align="center"><strong>LangChain</strong></td>
-    <td><img src="https://img.shields.io/badge/70%25-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>AWS</strong></td>
-    <td><img src="https://img.shields.io/badge/72%25-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+<h2 align="center">🛠️ My Skillset</h2>
+<p align="center"><em>Languages · Frameworks · Cloud · AI</em></p>
+
+<br/>
+
+<div align="center">
+
+| Skill | Proficiency | Level |
+|:------|:-----------:|:-----:|
+| 🐍 **Python** | `████████████░░` 90% | ![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=flat-square&logo=python&logoColor=white) |
+| ⚡ **JavaScript** | `██████████░░░░` 70% | ![JS](https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| ⚛️ **React** | `████████████░░` 85% | ![React](https://img.shields.io/badge/React-85%25-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| 🦎 **Django** | `████████████░░` 80% | ![Django](https://img.shields.io/badge/Django-80%25-092E20?style=flat-square&logo=django&logoColor=white) |
+| 🌶️ **Flask** | `██████████░░░░` 70% | ![Flask](https://img.shields.io/badge/Flask-70%25-000000?style=flat-square&logo=flask&logoColor=white) |
+| 🟢 **Node.js** | `███████████░░░` 75% | ![Node](https://img.shields.io/badge/Node.js-75%25-339933?style=flat-square&logo=node.js&logoColor=white) |
+| 🍃 **MongoDB** | `████████████░░` 80% | ![Mongo](https://img.shields.io/badge/MongoDB-80%25-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| 🐘 **PostgreSQL** | `████████████░░` 80% | ![PG](https://img.shields.io/badge/PostgreSQL-80%25-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| 🤖 **Machine Learning** | `███████████░░░` 75% | ![ML](https://img.shields.io/badge/Machine_Learning-75%25-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| 🔗 **LangChain** | `██████████░░░░` 70% | ![LC](https://img.shields.io/badge/LangChain-70%25-1C3C3C?style=flat-square&logo=langchain&logoColor=white) |
+| ☁️ **AWS** | `██████████░░░░` 72% | ![AWS](https://img.shields.io/badge/AWS-72%25-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) |
+
+</div>
 <h3 align="center">📊 Coding Habits & Portfolio Details</h3>
 
 <div align="center">
