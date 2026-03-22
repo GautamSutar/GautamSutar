@@ -128,92 +128,48 @@
 
 </div>
 
-<div align="center" style="width: 100%;">
-  <h1>💻 Tools & Technologies</h1>
-  
-  <!-- Added table-layout: fixed to ensure it forces full width -->
-  <table width="100%" style="width: 100%; table-layout: fixed; border: none; border-collapse: collapse;">
-    <tr>
-      <td align="center">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python" />
-        <br>Python
-      </td>
-      <td align="center">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="60" height="60" alt="Django" />
-        <br>Django
-      </td>
-      <td align="center">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="60" alt="TypeScript" />
-        <br>TypeScript
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/flask/white" width="60" height="60" alt="Flask" />
-        <br>Flask
-      </td>
-      <td align="center">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        <br>React
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
-        <br>Node.js
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" style="filter: invert(100%);" alt="Express.js" />
-        <br>Express.js
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" />
-        <br>MongoDB
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL" />
-        <br>PostgreSQL
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="60" height="60" alt="Redis" />
-        <br>Redis
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="Docker" />
-        <br>Docker
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-        <br>AWS
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" alt="TensorFlow" />
-        <br>TensorFlow
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="60" height="60" alt="Kafka" />
-        <br>Kafka
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" alt="Machine Learning" />
-        <br>ML
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60" alt="AI" />
-        <br>AI
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/langchain/white" width="60" height="60" alt="LangChain" />
-        <br>LangChain
-      </td>
-    </tr>
-  </table>
+<div align="center">
+
+<h1>💻 Tools & Technologies</h1>
+<p><sub>Languages · Frameworks · Databases · Cloud · AI</sub></p>
+
+<br/>
+
+**🐍 Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**⚛️ Frontend & Backend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+**🗄️ Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**☁️ DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+**🤖 AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
 </div>
 <br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
