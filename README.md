@@ -199,11 +199,11 @@
         <br>Kafka
       </td>
       <td align="center">
-        <img src="https://cdn-icons-gif.flaticon.com/6172/6172534.gif" width="60" height="60" alt="Machine Learning" />
+        <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="60" height="60" alt="Machine Learning" />
         <br>ML
       </td>
       <td align="center">
-        <img src="https://cdn-icons-gif.flaticon.com/6454/6454239.gif" width="60" height="60" alt="AI" />
+        <img src="https://cdn.simpleicons.org/openai/white" width="60" height="60" alt="AI" />
         <br>AI
       </td>
       <td align="center">
