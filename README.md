@@ -228,18 +228,18 @@
 <br/>
 
 | Skill | Proficiency | Badge |
-|:------|:------------|:-----:|
-| 🐍 &nbsp;**Python** | `████████████████████████████░░░░` &nbsp; 90% | ![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=flat-square&logo=python&logoColor=white) |
-| ⚡ &nbsp;**JavaScript** | `████████████████████████░░░░░░░░` &nbsp; 70% | ![JS](https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| ⚛️ &nbsp;**React** | `███████████████████████████░░░░░` &nbsp; 85% | ![React](https://img.shields.io/badge/React-85%25-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| 🟩 &nbsp;**Django** | `██████████████████████████░░░░░░` &nbsp; 80% | ![Django](https://img.shields.io/badge/Django-80%25-092E20?style=flat-square&logo=django&logoColor=white) |
-| 🌶️ &nbsp;**Flask** | `████████████████████████░░░░░░░░` &nbsp; 70% | ![Flask](https://img.shields.io/badge/Flask-70%25-000000?style=flat-square&logo=flask&logoColor=white) |
-| 🟢 &nbsp;**Node.js** | `█████████████████████████░░░░░░░` &nbsp; 75% | ![Node](https://img.shields.io/badge/Node.js-75%25-339933?style=flat-square&logo=node.js&logoColor=white) |
-| 🍃 &nbsp;**MongoDB** | `██████████████████████████░░░░░░` &nbsp; 80% | ![Mongo](https://img.shields.io/badge/MongoDB-80%25-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| 🐘 &nbsp;**PostgreSQL** | `██████████████████████████░░░░░░` &nbsp; 80% | ![PG](https://img.shields.io/badge/PostgreSQL-80%25-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| 🤖 &nbsp;**Machine Learning** | `█████████████████████████░░░░░░░` &nbsp; 75% | ![ML](https://img.shields.io/badge/Machine_Learning-75%25-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| 🔗 &nbsp;**LangChain** | `████████████████████████░░░░░░░░` &nbsp; 70% | ![LC](https://img.shields.io/badge/LangChain-70%25-1C3C3C?style=flat-square&logo=langchain&logoColor=white) |
-| ☁️ &nbsp;**AWS** | `████████████████████████░░░░░░░░` &nbsp; 72% | ![AWS](https://img.shields.io/badge/AWS-72%25-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) |
+|:------|:------------|:------|
+| 🐍 &nbsp;**Python** | `████████████████████████████░░░░` &nbsp; 90% | ![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| ⚡ &nbsp;**JavaScript** | `████████████████████████░░░░░░░░` &nbsp; 70% | ![JS](https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| ⚛️ &nbsp;**React** | `███████████████████████████░░░░░` &nbsp; 85% | ![React](https://img.shields.io/badge/React-85%25-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| 🟩 &nbsp;**Django** | `██████████████████████████░░░░░░` &nbsp; 80% | ![Django](https://img.shields.io/badge/Django-80%25-092E20?style=for-the-badge&logo=django&logoColor=white) |
+| 🌶️ &nbsp;**Flask** | `████████████████████████░░░░░░░░` &nbsp; 70% | ![Flask](https://img.shields.io/badge/Flask-70%25-000000?style=for-the-badge&logo=flask&logoColor=white) |
+| 🟢 &nbsp;**Node.js** | `█████████████████████████░░░░░░░` &nbsp; 75% | ![Node](https://img.shields.io/badge/Node.js-75%25-339933?style=for-the-badge&logo=node.js&logoColor=white) |
+| 🍃 &nbsp;**MongoDB** | `██████████████████████████░░░░░░` &nbsp; 80% | ![Mongo](https://img.shields.io/badge/MongoDB-80%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| 🐘 &nbsp;**PostgreSQL** | `██████████████████████████░░░░░░` &nbsp; 80% | ![PG](https://img.shields.io/badge/PostgreSQL-80%25-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| 🤖 &nbsp;**Machine Learning** | `█████████████████████████░░░░░░░` &nbsp; 75% | ![ML](https://img.shields.io/badge/Machine_Learning-75%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
+| 🔗 &nbsp;**LangChain** | `████████████████████████░░░░░░░░` &nbsp; 70% | ![LC](https://img.shields.io/badge/LangChain-70%25-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) |
+| ☁️ &nbsp;**AWS** | `████████████████████████░░░░░░░░` &nbsp; 72% | ![AWS](https://img.shields.io/badge/AWS-72%25-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) |
 
 
 
