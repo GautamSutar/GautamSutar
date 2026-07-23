@@ -76,8 +76,8 @@
       <p>💡 <i>"A self-believer who loves turning <b>dreams into reality</b>"</i> ✨</p>
       <br/>
       <p>
-        🎓 <b>4th Year Undergrad</b> (7th Sem) <br/>
-        🤝 <b>AI Intern</b> @ Microsoft & SAP <br/>
+        🎓 <b>B.Tech</b> @ PIEMR, Indore (2022–26) <br/>
+        🤖 <b>AI Intern</b> @ Infosys Springboard <br/>
         🐍 <b>Python Dev</b> @ Alphawizz Technologies <br/>
         📢 <b>Social Media Manager</b> @ Google Developer Group (PIEMR) <br/>
         👨‍💻 <b>Core Team</b> @ ACM Chapter <br/>
@@ -135,69 +135,120 @@
 
 <br/>
 
-<p align="left"><b>Languages</b></p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<table width="100%">
+<tr>
 
-<br/><br/>
+<td valign="top" width="25%" align="center">
 
-<p align="left"><b>Backend</b></p>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white" />
+**Languages**
 
-<br/><br/>
+| | |
+|:---:|:---|
+| <img src="https://skillicons.dev/icons?i=py" width="32"/> | Python |
+| <img src="https://skillicons.dev/icons?i=js" width="32"/> | JavaScript |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="32"/> | Node.js |
 
-<p align="left"><b>Web</b></p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</td>
 
-<br/><br/>
+<td valign="top" width="25%" align="center">
 
-<p align="left"><b>Databases</b></p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+**Backend**
 
-<br/><br/>
+| | |
+|:---:|:---|
+| <img src="https://skillicons.dev/icons?i=django" width="32"/> | Django |
+| <img src="https://skillicons.dev/icons?i=fastapi" width="32"/> | FastAPI |
+| <img src="https://skillicons.dev/icons?i=flask" width="32"/> | Flask |
+| 🧩 | DRF |
 
-<p align="left"><b>Systems & Tools</b></p>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS_(EC2%2C_S3)-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</td>
 
-<br/><br/>
+<td valign="top" width="25%" align="center">
 
-<p align="left"><b>AI Tools</b></p>
-<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+**Web**
 
-<br/><br/>
+| | |
+|:---:|:---|
+| <img src="https://skillicons.dev/icons?i=html" width="32"/> | HTML |
+| <img src="https://skillicons.dev/icons?i=css" width="32"/> | CSS |
+| <img src="https://skillicons.dev/icons?i=js" width="32"/> | JavaScript |
 
-<p align="left"><b>Core CS</b></p>
-<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-4B5563?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OOP-4B5563?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DBMS-4B5563?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Operating_Systems-4B5563?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer_Networks-4B5563?style=for-the-badge" />
+</td>
 
-<br/><br/>
+<td valign="top" width="25%" align="center">
 
-<p align="left"><b>GenAI</b></p>
-<img src="https://img.shields.io/badge/LLMs-1C3C3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-1C3C3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-1C3C3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vector_Databases-1C3C3C?style=for-the-badge" />
+**Databases**
+
+| | |
+|:---:|:---|
+| <img src="https://skillicons.dev/icons?i=postgres" width="32"/> | PostgreSQL |
+| <img src="https://skillicons.dev/icons?i=mysql" width="32"/> | MySQL |
+| <img src="https://skillicons.dev/icons?i=mongodb" width="32"/> | MongoDB |
+
+</td>
+
+</tr>
+<tr>
+
+<td valign="top" width="25%" align="center">
+
+**Systems & Tools**
+
+| | |
+|:---:|:---|
+| <img src="https://skillicons.dev/icons?i=redis" width="32"/> | Redis |
+| 🧵 | Celery |
+| <img src="https://skillicons.dev/icons?i=docker" width="32"/> | Docker |
+| <img src="https://skillicons.dev/icons?i=aws" width="32"/> | AWS (EC2, S3) |
+| <img src="https://skillicons.dev/icons?i=git" width="32"/> | Git |
+
+</td>
+
+<td valign="top" width="25%" align="center">
+
+**AI Tools**
+
+| | |
+|:---:|:---|
+| 🌐 | Antigravity |
+| 🤖 | Claude Code |
+| ➤ | Cursor |
+| 💬 | ChatGPT |
+| ✦ | Gemini |
+
+</td>
+
+<td valign="top" width="25%" align="center">
+
+**Core CS**
+
+| | |
+|:---:|:---|
+| 🧮 | Data Structures & Algorithms |
+| 🧱 | OOP |
+| 🗄️ | DBMS |
+| 🖥️ | Operating Systems |
+| 🌐 | Computer Networks |
+
+</td>
+
+<td valign="top" width="25%" align="center">
+
+**GenAI**
+
+| | |
+|:---:|:---|
+| 🧠 | LLMs |
+| 📚 | RAG |
+| 🔗 | LangChain |
+| 🕸️ | LangGraph |
+| ✍️ | Prompt Engineering |
+| 🗂️ | Vector Databases |
+
+</td>
+
+</tr>
+</table>
 
 </div>
 <br/>
@@ -207,29 +258,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
 </picture>
-
-
-
-<h2 align="center">🛠️ My Skillset</h2>
-<p align="center"><em>Languages · Frameworks · Cloud · AI</em></p>
-
-<br/>
-
-| Skill | Proficiency | Badge |
-|:------|:------------|:------|
-| 🐍 &nbsp;**Python** | `████████████████████████████░░░░` &nbsp; 90% | ![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| ⚡ &nbsp;**JavaScript** | `████████████████████████░░░░░░░░` &nbsp; 70% | ![JS](https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| 🟢 &nbsp;**Node.js** | `█████████████████████████░░░░░░░` &nbsp; 75% | ![Node](https://img.shields.io/badge/Node.js-75%25-339933?style=for-the-badge&logo=node.js&logoColor=white) |
-| 🟩 &nbsp;**Django** | `██████████████████████████░░░░░░` &nbsp; 80% | ![Django](https://img.shields.io/badge/Django-80%25-092E20?style=for-the-badge&logo=django&logoColor=white) |
-| ⚡ &nbsp;**FastAPI** | `███████████████████████████░░░░░` &nbsp; 82% | ![FastAPI](https://img.shields.io/badge/FastAPI-82%25-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
-| 🌶️ &nbsp;**Flask** | `████████████████████████░░░░░░░░` &nbsp; 70% | ![Flask](https://img.shields.io/badge/Flask-70%25-000000?style=for-the-badge&logo=flask&logoColor=white) |
-| 🍃 &nbsp;**MongoDB** | `██████████████████████████░░░░░░` &nbsp; 80% | ![Mongo](https://img.shields.io/badge/MongoDB-80%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-| 🐘 &nbsp;**PostgreSQL** | `██████████████████████████░░░░░░` &nbsp; 80% | ![PG](https://img.shields.io/badge/PostgreSQL-80%25-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
-| 🐬 &nbsp;**MySQL** | `█████████████████████████░░░░░░░` &nbsp; 75% | ![MySQL](https://img.shields.io/badge/MySQL-75%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| 🧵 &nbsp;**Redis & Celery** | `████████████████████████░░░░░░░░` &nbsp; 70% | ![Redis](https://img.shields.io/badge/Redis_%26_Celery-70%25-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
-| 🔗 &nbsp;**LangChain / RAG** | `████████████████████████░░░░░░░░` &nbsp; 70% | ![LC](https://img.shields.io/badge/LangChain_%2F_RAG-70%25-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) |
-| ☁️ &nbsp;**AWS (EC2, S3)** | `████████████████████████░░░░░░░░` &nbsp; 72% | ![AWS](https://img.shields.io/badge/AWS-72%25-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) |
-| 🐳 &nbsp;**Docker** | `█████████████████████████░░░░░░░` &nbsp; 75% | ![Docker](https://img.shields.io/badge/Docker-75%25-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 
 
@@ -448,32 +476,47 @@
 <br/>
 
 <table width="100%" style="border: none; border-collapse: collapse;">
-  
+
   <!-- Job 1 -->
   <tr>
     <td width="15%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/Ongoing-34D399?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Dec_2025_--_Mar_2026-34D399?style=for-the-badge" />
     </td>
     <td width="85%">
-      <h3>🐍 Python Developer Intern</h3>
-      <strong>Alphawizz Technologies</strong>
+      <h3>🤖 AI Intern</h3>
+      <strong>Infosys Springboard</strong> (Remote)
       <br/>
-      <font color="#8b949e">Building robust backend modules and scalable APIs using Python and Flask architecture.</font>
+      <font color="#8b949e">Built ML models for visa processing time prediction on 120K+ records, designing an end-to-end pipeline from ingestion to deployment and integrating Random Forest models with Flask APIs for real-time inference.</font>
     </td>
   </tr>
-  
+
   <tr><td colspan="2"><br/></td></tr> <!-- Spacer -->
 
   <!-- Job 2 -->
   <tr>
     <td width="15%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/Feb_2025-0078D4?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Jul_2025_--_Sep_2025-0078D4?style=for-the-badge" />
+    </td>
+    <td width="85%">
+      <h3>🐍 Python Developer Intern</h3>
+      <strong>Alphawizz Technologies</strong>
+      <br/>
+      <font color="#8b949e">Built backend logic and database operations for real-world apps (Fingerprint Detection, Virtual Dressing System), integrating ML models into backend services and optimizing REST APIs with Django for a 10–15% performance gain.</font>
+    </td>
+  </tr>
+
+  <tr><td colspan="2"><br/></td></tr> <!-- Spacer -->
+
+  <!-- Job 3 -->
+  <tr>
+    <td width="15%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Feb_2025_--_Mar_2025-A435F0?style=for-the-badge" />
     </td>
     <td width="85%">
       <h3>🤝 AI Intern</h3>
-      <strong>Microsoft & SAP (TechSaksham)</strong>
+      <strong>Edunet Foundation</strong> (Microsoft & SAP Initiative)
       <br/>
-      <font color="#8b949e">Developed cutting-edge ML solutions using Python, Flask, and Streamlit for real-world applications.</font>
+      <font color="#8b949e">Built an AI-based resume ranking system with Python and ML techniques, with an interactive Streamlit UI for real-time candidate evaluation.</font>
     </td>
   </tr>
 
@@ -546,6 +589,32 @@
         <a href="https://certificate.hack2skill.com/user/gdgscparticipation/2025H2S01GSC-P14568">
           <img src="https://img.shields.io/badge/View_Cert-2ea44f?style=fiat-square&logo=github&logoColor=white" />
         </a>
+      </td>
+    </tr>
+    <!-- ROW: DEKATHON -->
+    <tr style="border-top: 1px solid #21262d;">
+      <td align="center">
+        <img src="https://img.shields.io/badge/Runner_Up-C0C0C0?style=for-the-badge&logo=trophy&logoColor=black" />
+      </td>
+      <td align="left">
+        <h3>🥈 Dekathon Runner-Up</h3>
+        <font color="#8b949e">Secured 2nd position in a competitive hackathon by building an AI-based solution.</font>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2nd_Place-Success?style=flat-square&logo=checkmark" />
+      </td>
+    </tr>
+    <!-- ROW: KAGGLE HACKATHON -->
+    <tr style="border-top: 1px solid #21262d;">
+      <td align="center">
+        <img src="https://img.shields.io/badge/Hackathon-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+      </td>
+      <td align="left">
+        <h3>🧩 Kaggle x Google AI Agent Hackathon</h3>
+        <font color="#8b949e">Built an AI agent using <b>Google ADK</b>, focusing on agent-based automation and real-world problem solving.</font>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Built-Success?style=flat-square&logo=checkmark" />
       </td>
     </tr>
     <!-- ROW 4: COURSE (ML) -->
