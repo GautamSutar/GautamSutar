@@ -146,16 +146,16 @@
       <sub><b>JavaScript</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" alt="TypeScript"/><br/>
-      <sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" alt="React"/><br/>
-      <sub><b>React</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js"/><br/>
+      <sub><b>Node.js</b></sub>
     </td>
     <td align="center" width="110">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" width="55" height="55" alt="Django"/><br/>
       <sub><b>Django</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55" height="55" alt="FastAPI"/><br/>
+      <sub><b>FastAPI</b></sub>
     </td>
     <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/flask/ffffff" width="55" height="55" alt="Flask"/><br/>
@@ -164,16 +164,16 @@
   </tr>
   <tr>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js"/><br/>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB"/><br/>
       <sub><b>MongoDB</b></sub>
     </td>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL"/><br/>
       <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/><br/>
+      <sub><b>MySQL</b></sub>
     </td>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="55" height="55" alt="Redis"/><br/>
@@ -189,22 +189,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55" alt="TensorFlow"/><br/>
-      <sub><b>TensorFlow</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55" alt="PyTorch"/><br/>
-      <sub><b>PyTorch</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="55" height="55" alt="Kafka"/><br/>
-      <sub><b>Kafka</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" alt="Scikit-learn"/><br/>
-      <sub><b>Scikit-learn</b></sub>
-    </td>
     <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/langchain/ffffff" width="55" height="55" alt="LangChain"/><br/>
       <sub><b>LangChain</b></sub>
@@ -236,15 +220,17 @@
 |:------|:------------|:------|
 | 🐍 &nbsp;**Python** | `████████████████████████████░░░░` &nbsp; 90% | ![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | ⚡ &nbsp;**JavaScript** | `████████████████████████░░░░░░░░` &nbsp; 70% | ![JS](https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| ⚛️ &nbsp;**React** | `███████████████████████████░░░░░` &nbsp; 85% | ![React](https://img.shields.io/badge/React-85%25-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
-| 🟩 &nbsp;**Django** | `██████████████████████████░░░░░░` &nbsp; 80% | ![Django](https://img.shields.io/badge/Django-80%25-092E20?style=for-the-badge&logo=django&logoColor=white) |
-| 🌶️ &nbsp;**Flask** | `████████████████████████░░░░░░░░` &nbsp; 70% | ![Flask](https://img.shields.io/badge/Flask-70%25-000000?style=for-the-badge&logo=flask&logoColor=white) |
 | 🟢 &nbsp;**Node.js** | `█████████████████████████░░░░░░░` &nbsp; 75% | ![Node](https://img.shields.io/badge/Node.js-75%25-339933?style=for-the-badge&logo=node.js&logoColor=white) |
+| 🟩 &nbsp;**Django** | `██████████████████████████░░░░░░` &nbsp; 80% | ![Django](https://img.shields.io/badge/Django-80%25-092E20?style=for-the-badge&logo=django&logoColor=white) |
+| ⚡ &nbsp;**FastAPI** | `███████████████████████████░░░░░` &nbsp; 82% | ![FastAPI](https://img.shields.io/badge/FastAPI-82%25-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
+| 🌶️ &nbsp;**Flask** | `████████████████████████░░░░░░░░` &nbsp; 70% | ![Flask](https://img.shields.io/badge/Flask-70%25-000000?style=for-the-badge&logo=flask&logoColor=white) |
 | 🍃 &nbsp;**MongoDB** | `██████████████████████████░░░░░░` &nbsp; 80% | ![Mongo](https://img.shields.io/badge/MongoDB-80%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 | 🐘 &nbsp;**PostgreSQL** | `██████████████████████████░░░░░░` &nbsp; 80% | ![PG](https://img.shields.io/badge/PostgreSQL-80%25-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
-| 🤖 &nbsp;**Machine Learning** | `█████████████████████████░░░░░░░` &nbsp; 75% | ![ML](https://img.shields.io/badge/Machine_Learning-75%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
-| 🔗 &nbsp;**LangChain** | `████████████████████████░░░░░░░░` &nbsp; 70% | ![LC](https://img.shields.io/badge/LangChain-70%25-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) |
-| ☁️ &nbsp;**AWS** | `████████████████████████░░░░░░░░` &nbsp; 72% | ![AWS](https://img.shields.io/badge/AWS-72%25-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) |
+| 🐬 &nbsp;**MySQL** | `█████████████████████████░░░░░░░` &nbsp; 75% | ![MySQL](https://img.shields.io/badge/MySQL-75%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| 🧵 &nbsp;**Redis & Celery** | `████████████████████████░░░░░░░░` &nbsp; 70% | ![Redis](https://img.shields.io/badge/Redis_%26_Celery-70%25-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
+| 🔗 &nbsp;**LangChain / RAG** | `████████████████████████░░░░░░░░` &nbsp; 70% | ![LC](https://img.shields.io/badge/LangChain_%2F_RAG-70%25-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) |
+| ☁️ &nbsp;**AWS (EC2, S3)** | `████████████████████████░░░░░░░░` &nbsp; 72% | ![AWS](https://img.shields.io/badge/AWS-72%25-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) |
+| 🐳 &nbsp;**Docker** | `█████████████████████████░░░░░░░` &nbsp; 75% | ![Docker](https://img.shields.io/badge/Docker-75%25-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 
 
