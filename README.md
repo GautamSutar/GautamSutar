@@ -131,74 +131,73 @@
 <div align="center">
 
 <h1>💻 Tools & Technologies</h1>
-<p><sub>LANGUAGES · FRAMEWORKS · DATABASES · CLOUD · AI</sub></p>
+<p><sub>LANGUAGES · BACKEND · WEB · DATABASES · SYSTEMS & TOOLS · AI TOOLS · CORE CS · GENAI</sub></p>
 
 <br/>
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python"/><br/>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" alt="JavaScript"/><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js"/><br/>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="55" height="55" alt="Django"/><br/>
-      <sub><b>Django</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55" height="55" alt="FastAPI"/><br/>
-      <sub><b>FastAPI</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/flask/ffffff" width="55" height="55" alt="Flask"/><br/>
-      <sub><b>Flask</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB"/><br/>
-      <sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL"/><br/>
-      <sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/><br/>
-      <sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="55" height="55" alt="Redis"/><br/>
-      <sub><b>Redis</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="Docker"/><br/>
-      <sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55" height="55" alt="AWS"/><br/>
-      <sub><b>AWS</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/langchain/ffffff" width="55" height="55" alt="LangChain"/><br/>
-      <sub><b>LangChain</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/><br/>
-      <sub><b>Git</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="left"><b>Languages</b></p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+
+<br/><br/>
+
+<p align="left"><b>Backend</b></p>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white" />
+
+<br/><br/>
+
+<p align="left"><b>Web</b></p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<br/><br/>
+
+<p align="left"><b>Databases</b></p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<br/><br/>
+
+<p align="left"><b>Systems & Tools</b></p>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_(EC2%2C_S3)-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<br/><br/>
+
+<p align="left"><b>AI Tools</b></p>
+<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+
+<br/><br/>
+
+<p align="left"><b>Core CS</b></p>
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-4B5563?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OOP-4B5563?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DBMS-4B5563?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Operating_Systems-4B5563?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer_Networks-4B5563?style=for-the-badge" />
+
+<br/><br/>
+
+<p align="left"><b>GenAI</b></p>
+<img src="https://img.shields.io/badge/LLMs-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector_Databases-1C3C3C?style=for-the-badge" />
 
 </div>
 <br/>
